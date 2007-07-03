@@ -3,3 +3,4 @@ Hola!
 Este es mi wiki.
 
   * [[Lyrics]] - Letras de canciones
+  * [[General]] - Asuntos varios
