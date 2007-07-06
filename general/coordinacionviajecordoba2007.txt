@@ -35,7 +35,26 @@ y dijo:
 > eso es una agencia con la que tenemos convenio
 > que hace precios a la gente que viene a la jornadas
 
-Ahora tenemos que averiguar que precio nos hace esa agencia y tambien averiguar por avion. 
+Rafael Alvarez averiguo en esa agencia y comento:
+
+> Atte. Sr. Alvarez:                                                                                          
+>                                                                                                           
+> En el archivo adjunto estan las tarifas convenio para los                                                   
+> participantes de las Jornadas. Aqui le paso precios de los vuelos.                                          
+> Para llegar a Cordoba desde Montevideo tiene que ser via Buenos Aires,                                      
+> no hay vuelos directos.                                                                                     
+> Con Aerolineas Argentinas le sale usd 364 (dolares) con impuestos                                           
+> incluidos, sujeto a disponibilidad al momento de la reserva.                                                
+> Las jornadas son del 7 al 11 de agosto, digame cuando  que dia                                              
+> prefiere llegar a Cordoba y que dia irse asi le paso horarios de                                            
+> vuelos.                                                                                                     
+>                                                                                                             
+> Los precios del alojamiento son por habitacion, por noche e incluyen                                        
+> desayuno ( excepto en el apart cordoba inn que son sin desayuno)                                            
+
+Archivo adjunto: {{general:tarifasalojamientocongreso.xls|}}                                                  
+ 
+
 Andres Tarallo habia comentado hace tiempo:
 
 > From: Andres Tarallo < atarallo@acm.org>
