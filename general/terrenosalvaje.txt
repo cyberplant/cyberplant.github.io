@@ -1,0 +1,7 @@
+Estaba viendo en la tele en [[www.isat.tv|I-Sat]] una pelicula de accion clasica con muchas explosiones y muchos golpes y artes marciales ([[http://www.imdb.com/title/tt0110725/|Terreno Salvaje]]), PERO cuando termino la pelicula el protagonista (Steven Seagal) dio una charla que me parecio muy interesante y real sobre los problemas de la contaminacion en el planeta y la poca bola que le estamos dando a todos estos temas.. 
+
+Busque un poco en youtube y encontre el video (hablado en español de España..) y aca lo pongo para que lo puedan ver y opinar. Espero que cosas como estas hagan que todos tomemos consciencia del problema y busquemos una solucion que nos beneficie a todos (mas que la actual que solo beneficia a unos pocos).
+
+<html>
+<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/mvbkSHf97j8"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/mvbkSHf97j8" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+</html>
