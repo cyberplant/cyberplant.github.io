@@ -4,3 +4,4 @@
   * [[general:SobreElIRPF|Documento creado por un amigo sobre su analisis del IRPF en algunos casos]]
   * [[general:Food|Datos recabados por mi mismo sobre lugares de comida]]
   * [[general:TerrenoSalvaje|Discurso muy interesante de una pelicula chota]]
+  * [[general:Humor:Rapto|Comentario jocoso sobre un rapto]]
