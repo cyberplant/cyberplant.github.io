@@ -1,6 +1,6 @@
-Como no se cual es el video original los pongo todos :)
+Como no se cual es el video original pongo los que encontre :-)
 <html>
-
+<br />
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/HrePg9VkcWM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/HrePg9VkcWM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/03wCW2GiekY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/03wCW2GiekY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 <br />
