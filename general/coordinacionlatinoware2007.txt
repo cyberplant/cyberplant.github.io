@@ -22,3 +22,8 @@ Obs:
 
 Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a reserva, informando o nome, quantidade de pessoas, quantidade de apartamentos e período de hospedagem.
 
+
+=== Quienes vamos? ===
+
+^ Nombre ^ Contacto ^
+| Luar Roji | cyberplant en roji.net |
