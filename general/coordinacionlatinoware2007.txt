@@ -34,4 +34,4 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 ^ Nombre ^ Contacto ^ Alojamiento ^
 | Luar Roji | cyberplant en roji.net | |
 | Marcelo Zunino | marcelo en zunimercado.com | ¿ Hostel ?|
-|Andres Tarallo| atarallo en acm.org ||
+|Andres Tarallo| atarallo en acm.org |||
