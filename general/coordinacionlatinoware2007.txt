@@ -32,7 +32,7 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 === Quienes vamos? ===
 
 ^ Nombre ^ Contacto ^ Alojamiento ^
-| Luar Roji | cyberplant en roji.net | |
+| Luar Roji | cyberplant en roji.net | Ni idea aun, se escuchan sugerencias! |
 | Marcelo Zunino | marcelo en zunimercado.com | ¿ Hostel ?|
 |Andres Tarallo| atarallo en acm.org | |
 |Rodolfo Pilas | rodolfo en pilas.net ||
