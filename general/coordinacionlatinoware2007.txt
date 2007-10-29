@@ -35,5 +35,7 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 | Luar Roji | cyberplant en roji.net | |
 | Marcelo Zunino | marcelo en zunimercado.com | ¿ Hostel ?|
 |Andres Tarallo| atarallo en acm.org | |
-|Rodolfo Pilas | rodolfo en pilas.net | |
+|Rodolfo Pilas | rodolfo en pilas.net ||
 |Gustavo Boksar | gustavo en boksar.info | Quién comparte costo? Hotel eco please!|
+| Fernando da Rosa | fedaro.info | |
+
