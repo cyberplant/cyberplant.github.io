@@ -42,4 +42,5 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 |Enrique "El G@llego" Verdes | emverdes en ieee.org | |
 |Federico Calvo | federicocalvo en gmail.com | Algún hotel u hostal Bx3 |
 |Santiago Ferreira | santiago.ferreira en  gmail.com | |
-| Alvaro Mouriño | tuxie en debian-uy | Hostel | Diego Bastiani | dbastiani80 en hotmail.com | Cuando se decide lo del hospedaje? |
+| Alvaro Mouriño | tuxie en debian-uy | Hostel |
+| Diego Bastiani | dbastiani80 en hotmail.com | Cuando se decide lo del hospedaje? |
