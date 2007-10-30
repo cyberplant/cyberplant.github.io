@@ -35,10 +35,11 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 | Luar Roji | cyberplant en roji.net | Ni idea aun, se escuchan sugerencias! |
 | Marcelo Zunino | marcelo en zunimercado.com | ¿ Hostel ?|
 |Andres Tarallo| atarallo en acm.org | |
-|Rodolfo Pilas | rodolfo en pilas.net ||
+|Rodolfo Pilas | rodolfo en pilas.net | |
 |Gustavo Boksar | gustavo en boksar.info | Quién comparte costo? Hotel eco please!|
 | Fernando da Rosa | fedaro.info | |
-|Federico Wagner | federico.wagner en gmail.com ||
+|Federico Wagner | federico.wagner en gmail.com | |
 |Enrique "El G@llego" Verdes | emverdes en ieee.org | |
 |Federico Calvo | federicocalvo en gmail.com | Algún hotel u hostal Bx3 |
 |Santiago Ferreira | santiago.ferreira en  gmail.com | |
+| Alvaro Mouriño | tuxie en debian-uy | Hostel |
