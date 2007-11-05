@@ -11,10 +11,10 @@ Esta es la página de coordinación del viaje al LatinoWare 2007, ¡de la carava
 |Hotel Cassino (3 estrelas)|R$ 70,00|R$ 90,00|R$ 120,00|
 |Hotel San Juan Centro (3 estrelas)|R$ 80,00|R$ 90,00|R$ 120,00|
 |Hotel Foz Plaza (3 estrelas)|R$ 80,00|R$ 95,00|R$ 130,00|
-|**Hotel San Rafael (4 estrelas)**|R$ 85,00|R$  99,00|R$ 135,00|
-|Nadai (4 estrelas)|R$ 90,00|R$ 110,00|R$ 150,00|
-|**Hotel Rafain Centro (4 estrelas)**|R$ 95,00|R$ 115,00|R$ 160,00|
-|**Hotel Falls Galli (4 Estrelas Sup.)**|R$ 115,00|R$ 120,00|R$ 185,00|
+|**[[http://www.sanrafaelhotelfoz.com.br/|Hotel San Rafael]] (4 estrelas)**|R$ 85,00|R$  99,00|R$ 135,00|
+|[[http://www.hotelnadai.com.br/|Nadai]] (4 estrelas)|R$ 90,00|R$ 110,00|R$ 150,00|
+|**[[http://www.rafaincentro.com.br/|Hotel Rafain Centro]] (4 estrelas)**|R$ 95,00|R$ 115,00|R$ 160,00|
+|**[[http://www.fallsgallihotel.com.br/|Hotel Falls Galli]] (4 Estrelas Sup.)**|R$ 115,00|R$ 120,00|R$ 185,00|
 |Bourbon (5 Estrelas)|R$ 280,00|R$ 280,00|R$ 370,00|
 
 Obs:
