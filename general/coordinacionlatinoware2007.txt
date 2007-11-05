@@ -1,6 +1,6 @@
 === General ===
 
-Esta es la página de coordinación del viaje al LatinoWare 2007, de la caravana uruguaya! http://latinoware.org
+Esta es la página de coordinación del viaje al LatinoWare 2007, ¡de la caravana uruguaya! http://latinoware.org
 
 === Informacion sobre el hospedaje ===
 
@@ -20,7 +20,7 @@ Esta es la página de coordinación del viaje al LatinoWare 2007, de la caravana
 Obs:
     * Valores por apartamento e não por pessoa.
     * Não cobramos taxas de serviços.
-    * Forma de pagto, enviar sinal de 30% do valor total da hospedagem até o dia 27 de Outubro/2007 e o restante deverá ser depositado at´eo dia 10/11/2007.
+    * Forma de pagamento, enviar sinal de 30% do valor total da hospedagem até o dia 27 de Outubro/2007 e o restante deverá ser depositado até o dia 10/11/2007.
     * Depositar o sinal no Banco do Brasil, Ag. 0140-6 C/C 30596-0 em nome de Free Travel Turismo Ltda.
     * Enviar cópia do depósito via fax, 0xx45-3523 56 24.
 
@@ -29,12 +29,12 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 **IMPORTANTE HACER LAS RESERVAS LO ANTES POSIBLE, DADO QUE SE LLENAN LOS HOTELES**
 
 
-=== Quienes vamos? ===
+=== ¿Quiénes vamos? ===
 
 ^ Nombre ^ Contacto ^ Alojamiento ^
 | Luar Roji | cyberplant en roji.net | Ni idea aun, se escuchan sugerencias! |
 | Marcelo Zunino | marcelo en zunimercado.com | ¿ Hostel ?|
-|Andres Tarallo| atarallo en acm.org | |
+|Andrés Tarallo| atarallo en acm.org | |
 |Rodolfo Pilas | rodolfo en pilas.net | |
 |Gustavo Boksar | gustavo en boksar.info | Quién comparte costo? Hotel eco please!|
 | Fernando da Rosa | fedaro.info | |
@@ -42,7 +42,7 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 |Enrique "El G@llego" Verdes | emverdes en ieee.org | |
 |Federico Calvo | federicocalvo en gmail.com | Algún hotel u hostal Bx3 |
 |Santiago Ferreira | santiago.ferreira en  gmail.com | |
-| Alvaro Mouriño | tuxie en debian-uy | Hostel |
+| Álvaro Mouriño | tuxie en debian-uy | Hostel |
 | Diego Bastiani | dbastiani80 en hotmail.com | Cuando se decide lo del hospedaje? |
 
 CON RELACIÓN A LA LISTA, TENEMOS QUE TENER 30 INSCRIPTOS ANTES DEL 8 DE NOVIEMBRE, EL ÓMNIBUS NO VIENE POR MENOS DE ESA CANTIDAD DE INSCRIPTOS.
