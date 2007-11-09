@@ -38,7 +38,7 @@ Para efetuar a reserva, favor escolher o hotel e enviar e-mail solicitando a res
 ^ Nombre ^ Contacto ^ Alojamiento ^ "Flete" ^
 | Luar Roji | cyberplant en roji.net | Ni idea aun, se escuchan sugerencias! | |
 | Marcelo Zunino | marcelo en zunimercado.com | | |
-|Andrés Tarallo| atarallo en acm.org | | |
+|<del>Andrés Tarallo</del> | <del>atarallo en acm.org </del> | | |
 |Rodolfo Pilas | rodolfo en pilas.net | | |
 |Gustavo Boksar | gustavo en boksar.info | Quién comparte costo? Hotel eco please!| |
 | Fernando da Rosa | fedaro.info | | Aviao|
