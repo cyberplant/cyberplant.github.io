@@ -1,7 +1,5 @@
 
-
-  * [[general:CoordinacionViajeCordoba2007|Pagina no muy utilizada para coordinar el viaje a la 7ma Jornada Regional de Software Libre]]
-  * [[general:CoordinacionLatinoWare2007|Pagina para coordinar el viaje al LatinoWare 2007]]
+  * [[general:CumpleCMA2007|Que hachemo pal cumple 2007 de CMA?]]
   * [[general:SobreElIRPF|Documento creado por un amigo sobre su analisis del IRPF en algunos casos]]
   * [[general:Food|Datos recabados por mi mismo sobre lugares de comida]]
   * [[general:TerrenoSalvaje|Discurso muy interesante de una pelicula chota]]
