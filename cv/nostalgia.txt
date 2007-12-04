@@ -1,0 +1,21 @@
+===== Nostalgia =====
+
+Some software I've used a lot of years ago (more than 10 years):
+
+   * DOS Multitasking Software: DesqView
+   * BBS Softwares: 
+      * RemoteAccess
+      * Maximus
+      * LORA BBS
+      * PowerBoard
+   * FidoNet:
+      * FrontDoor
+      * Portal Of Power
+      * Xenia
+      * Squish
+   * FOSSIL:
+      * X00
+   * Packet Radio:
+      * BBS Software: W0RLI, F6FBB
+      * Netrom: G8BPQ
+
