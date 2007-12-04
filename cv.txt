@@ -1,0 +1,108 @@
+====== Personal Information ======
+
+   * Full Name: Luar Roji Labora
+   * Email: luar -at- roji.net  / cyberplant -at- roji.net
+   * Phone: +598 2 9290161
+   * Cell Phone: +598 99 120467
+   * Residence Country: Uruguay
+
+====== Skills ======
+
+   * Programming languages: 
+      * [[http://www.php.net|PHP]](Advanced)
+      * [[http://java.sun.com|Java]](Advanced)
+      * [[http://www.python.org|Python]](Learning)
+      * [[http://www.ruby-lang.org|Ruby]](Learning)
+      * TCL(Basic)
+      * C(Basic)
+   * Shell scripting:
+      * [[http://www.gnu.org/software/bash/|Bash]](Advanced)
+   * Mail Servers: 
+      * [[http://cr.yp.to/qmail.html|qmail]](Advanced)
+      * [[http://www.postfix.org|postfix]](Advanced)
+   * Web Servers: 
+      * [[http://www.apache.org|Apache and Apache2]](Advanced)
+   * Databases: 
+      * [[http://www.mysql.org|MySQL]](Advanced)
+      * [[http://www.postgresql.org|PostgreSQL]](Basic)
+   * Financial (ISO-8583): [[http://www.jpos.org|jPOS]](Developer)
+   * VoIP: [[http://www.asterisk.org|Asterisk]](Advanced)
+   * DNS Servers: [[http://www.powerdns.com|PowerDNS]](Advanced)
+   * Security Surveillance Systems: 
+      * [[http://www.zoneminder.com|ZoneMinder]](Medium) - One Linux server with Four IP Cameras
+   * LDAP: [[http://www.openldap.org|OpenLDAP]](Medium)
+   * VPNs: [[http://www.openvpn.org|OpenVPN]](Medium)
+   * Operating Systems: 
+      * Linux:
+         * [[http://www.debian.org|Debian]](Advanced)
+         * [[http://www.ubuntu.org|Ubuntu]](Advanced)
+      * Windows:
+         * Windows 3.0/3.1
+         * Windows 95/98/Millenium
+         * NT Family: NT 4.0/2000/XP
+      * DOS(Advanced)
+   * Software RAID:
+      * Have a few servers with Raid Level 1 in Debian Linux using md
+   * IM (Jabber/XMPP):
+      * [[http://jabberd.jabberstudio.org/|jabberd]](Medium)
+      * [[http://www.igniterealtime.org/projects/openfire/index.jsp|OpenFire]](Advanced)
+   * Remote Access: 
+      * [[http://ssh.org|OpenSSH]]
+      * [[http://en.wikipedia.org/wiki/VNC|VNC]]
+   * Text Editors: [[http://www.vim.org|Vim]](Advanced)
+   * WRT54GL Firmwares:
+      * OpenWRT(Basic)
+      * DD-WRT(Basic)
+   * Other Programming Languages that I've worked with but a lot of years ago:
+      * Basic(Advanced)
+      * Clipper(Advanced, with a diploma (my only one!) but don't remember so much)
+      * Pascal(Advanced)
+      * Delphi(Medium)
+
+====== Work background ======
+
+  * 2005-today : [[http://www.ateka.com|Ateka]]
+    * Linux Servers Administration
+    * PHP&MySQL Development
+
+  * 1999-today : [[http://cs.com.uy|CompuService S.R.L.]] 
+    * Linux Servers Administration
+    * Java Development
+        * Electronic Commerce (ECCS)
+        * Critical Financial Systems using jPOS and jPOS-EE
+
+  * 1998-1999 : Colegio Nacional Jose Pedro Varela as computers room manager
+    * I was in charge of 5 computer labs (~100PCs), for students.
+
+====== Other Info ======
+
+===== MaCy =====
+
+ MaCy was a software for managing a CyberCafe. I've developed it with the idea
+ of creating a full OpenSource CyberCafe application, but sadly I had to leave
+ the development for time issues.
+
+ I had it working in a few local CyberCafes for around 2 years with no problems.
+
+ For more info: [[http://macy.sf.net|MaCy]]
+
+===== MontevideoLibre =====
+
+We're creating a local wireless community here. I don't have my node online yet
+but soon I will. 
+
+I've helped (not so much) with the development of a IRC bot called Uma, in TCL.
+
+  * For more info: [[http://www.montevideolibre.org|MontevideoLibre]]
+  * My personal page there: [[http://www.montevideolibre.org/integrantes:cyberplant|CyberPlant]]
+  * My node page: [[http://www.montevideolibre.org/nodos:warpzone|WarpZone]]
+  * For more info about Uma: [[http://www.montevideolibre.org/chatirc:uma|Uma]]
+
+===== Links =====
+
+   * [[http://www.roji.net|My WebPage]]
+   * [[http://www.linkedin.com/in/cyberplant|My Profile at LinkedIn]]
+   * [[http://www.roji.net/PublicStuff/luar.asc|My GPG Public Key]]
+   * [[http://www.google.com/search?q=%22Luar%20Roji%22|What Google Knows about me]]
+   * [[http://wiki.roji.net/cv:nostalgia|My Nostalgia page]] FIXME
+
