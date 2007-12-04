@@ -4,3 +4,4 @@ Este es mi wiki.
 
   * [[Lyrics]] - Letras de canciones
   * [[General]] - Asuntos varios
+  * [[cv]] - Mi Curriculum Vitae
