@@ -104,5 +104,5 @@ I've helped (not so much) with the development of a IRC bot called Uma, in TCL.
    * [[http://www.linkedin.com/in/cyberplant|My Profile at LinkedIn]]
    * [[http://www.roji.net/PublicStuff/luar.asc|My GPG Public Key]]
    * [[http://www.google.com/search?q=%22Luar%20Roji%22|What Google Knows about me]]
-   * [[http://wiki.roji.net/cv:nostalgia|My Nostalgia page]] FIXME
+   * [[http://wiki.roji.net/cv:nostalgia|My Nostalgia page]]
 
