@@ -1,0 +1,3 @@
+<html>
+<object type="application/x-shockwave-flash" width="450" height="370" wmode="transparent" data="http://www.liveleak.com/player.swf?autostart=false&token=fd1_1189932921"><param name="movie" value="http://www.liveleak.com/player.swf?autostart=false&token=fd1_1189932921"><param name="wmode" value="transparent"><param name="quality" value="high"></object>
+</html>
