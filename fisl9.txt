@@ -1,6 +1,7 @@
 ====== Coordinación del viaje al FISL 9 ======
 
 
+
 ==== Quienes vamos? ====
 
 Confirmados:
@@ -13,6 +14,7 @@ Confirmados:
   - Gustavo Olaza
   - Damian Pajares
   - Enrique Verdes
+  - Roberto Allende (solo hotel)
 
 No confirmados:
   - Alejandro Mateo
