@@ -27,7 +27,8 @@ No confirmados:
 
 YA QUE NADIE SE PONE LAS PILAS, copio lo que encontre en los mails:
 
-Donde nos alojamos?
+===== Donde nos alojamos? =====
+
 
 ^ Nombre ^ Ubicacion ^ Precio ^ Datos adicionales ^
 |Hotel Real Palace| en el centro|Habitación doble U$S 55 la diaria|con desayuno|
@@ -36,7 +37,8 @@ Donde nos alojamos?
 |Hotel Embaixador| | 166 reales | |
 |Hotel Sheraton| | 159 reales |Habitaciones triples http://www.expedia.com/daily/hotels/default.asp |
 
-En que vamos?
+===== En que vamos?
+ =====
 
 PASAJES GOL
    IDA	 Qua, 16 Abr 08
