@@ -2,21 +2,21 @@
 
 
 
-==== Quienes vamos? ====
+==== ¿Quiénes vamos? ====
 
 Confirmados:
   - Luar Roji
-  - Anibal Pacheco
-  - Luis Eduardo Cortes
+  - Aníbal Pacheco
+  - Luis Eduardo Cortés
   - Marcelo Zunino
   - Alvaro Mouriño
   - Carlos Soderguit
   - Gustavo Olaza
   - Verónica Pombo
-  - Damian Pajares
+  - Damián Pajares
   - Enrique Verdes
   - Roberto Allende (solo hotel)
-  - Helius Ferreira (hotel?)
+  - Helius Ferreira (¿hotel?)
 
 No confirmados:
   - Alejandro Mateo
@@ -24,28 +24,28 @@ No confirmados:
   - Andrés Tarallo
   - Ernesto Silva
   - Y EL MASTERNECHI????
-  - Gerardo Chavez
+  - Gerardo Chávez
 
 YA QUE NADIE SE PONE LAS PILAS, copio lo que encontre en los mails:
 
 
-===== Donde nos alojamos? =====
+===== ¿Dónde nos alojamos? =====
 
 
-^ Nombre ^ Ubicacion ^ Precio ^ Datos adicionales ^
-|Hotel Real Palace| en el centro|Habitación doble U$S 55 la diaria|con desayuno|
-|Residencial Jary Apart Hotel| en el centro|Habitación doble U$S 85 la diaria|con desayuno|
-|Hotel Umbu|en el centro|Habitación doble U$S 75 la diaria|con desayuno|
+^ Nombre ^ Ubicación ^ Precio ^ Datos adicionales ^
+|Hotel Real Palace| Centro|Habitación doble U$S 55 la diária|con desayuno|
+|Residencial Jary Apart Hotel| Centro|Habitación doble U$S 85 la diária|con desayuno|
+|Hotel Umbu|Centro|Habitación doble U$S 75 la diária|con desayuno|
 |Hotel Embaixador| | 166 reales | |
 |Hotel Sheraton| | 159 reales |Habitaciones triples http://www.expedia.com/daily/hotels/default.asp |
 |Hotel Otton Plaza San Rafael (5*)| | R$ 226 + 10% | Habitaciones dobles, conseguido por FWagner|
 |Hotel Otton Plaza San Rafael (4*)| | R$ 183 + 10% | Habitaciones dobles, conseguido por FWagner|
 
 
-===== En que vamos? =====
+===== ¿En qué vamos? =====
 PASAJES GOL
    IDA	 Qua, 16 Abr 08
-  Vôo 7489 	  	
+   Vôo 7489 	  	
 17:05 	  	Partida 	  	Montevideo (MVD)
 18:20 	  	Chegada 	  	Porto Alegre-RS (POA)		
 			 
@@ -55,6 +55,6 @@ PASAJES GOL
 01:15 	  	Chegada 	  	Montevideo (MVD) (Próximo Dia)
 
 
-BO, APORTEN ALGO AL WIKI, acuerdense que es un wiki, o sea que se logra con la ayuda de TODOS. No es que tengan que pedir permiso para editar. METAN MANO. Es una orden. SI, a vos que estas leyendo esto te estoy hablando.
+BO, APORTEN ALGO AL WIKI, acuérdense que es un wiki, o sea que se logra con la ayuda de TODOS. No es que tengan que pedir permiso para editar. METAN MANO. Es una orden. SÍ, a vos que estas leyendo esto te estoy hablando.
 
 [[Boleto principesco y truchon]]
