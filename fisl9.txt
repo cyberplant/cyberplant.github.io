@@ -32,15 +32,12 @@ YA QUE NADIE SE PONE LAS PILAS, copio lo que encontre en los mails:
 ===== ¿Dónde nos alojamos? =====
 
 
-^ Nombre ^ Ubicación ^ Precio ^ Datos adicionales ^
-|Hotel Real Palace| Centro|Habitación doble U$S 55 la diária|con desayuno|
-|Residencial Jary Apart Hotel| Centro|Habitación doble U$S 85 la diária|con desayuno|
-|Hotel Umbu|Centro|Habitación doble U$S 75 la diária|con desayuno|
-|Hotel Embaixador| | 166 reales | |
-|Hotel Sheraton| | 159 reales |Habitaciones triples http://www.expedia.com/daily/hotels/default.asp |
-|Hotel Otton Plaza San Rafael (5*)| | R$ 226 + 10% | Habitaciones dobles, conseguido por FWagner|
-|Hotel Otton Plaza San Rafael (4*)| | R$ 183 + 10% | Habitaciones dobles, conseguido por FWagner|
+^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Triple ^ Datos adicionales ^
+|Hotel Real Palace| Centro | R$69 | R$ 79|www.realph.com.br|
+|Residencial Jary Apart Hotel| Centro |R$ 99|R$ 115|http://www.residencialjary.com.br|
+|Hotel Umbu*| Centro | R$ 89| R$ 107 |http://www.brasilcontact.com/es_Umbu-Hotel.html|
 
+*Precios tomados de la agencia de viajes del evento.
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
