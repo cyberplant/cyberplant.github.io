@@ -28,7 +28,7 @@ No confirmados:
 
 
 ^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Triple ^ Datos adicionales ^
-|Hotel Real Palace| Centro | R$69 | R$ 79|www.realph.com.br|
+|Hotel Real Palace| Centro | R$ 69 | R$ 79|www.realph.com.br|
 |Residencial Jary Apart Hotel| Centro |R$ 99|R$ 115|http://www.residencialjary.com.br|
 |Hotel Umbu*| Centro | R$ 89| R$ 107 |http://www.brasilcontact.com/es_Umbu-Hotel.html|
 
