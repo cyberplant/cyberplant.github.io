@@ -4,29 +4,24 @@
 
 ==== ¿Quiénes vamos? ====
 
-Confirmados:
-  - Luar Roji
-  - Aníbal Pacheco
-  - Luis Eduardo Cortés
-  - Marcelo Zunino
-  - Alvaro Mouriño
-  - Carlos Soderguit
-  - Gustavo Olaza
-  - Verónica Pombo
-  - Damián Pajares
-  - Enrique Verdes
-  - Roberto Allende (solo hotel)
-  - Helius Ferreira (¿hotel?)
-  - Gerardo Chaves (hoy pago :-))
+  - Luis Eduardo Cortes alias "El 400"
+  - Anibal Pacheco alias "Riverita"
+  - Gustavo Olaza "Garganta"
+  - Veronica Pombo de Olaza "la sra del Garganta"
+  - Enrique Verdes "Angola"
+  - Alvaro Mouriño "Carita"
+  - Damian Pajares "Damian"
+  - Alejandro Mateo "*"
+  - Carlos Sordeguit "*"
+  - Ernesto Silva "Totonho" (aun no se acredito el deposito pero vamos a confiar)
+  - Marcelo Zunino "Alemao"      (giro recibido)
+  - Luar Roji "wiki"             (pagado en efectivo)
+  - Gerardo Martin Chavez "*"    (pagado en efectivo)
+  - Gabriel Icasuriaga "110"     (convenio con Gol)
 
 No confirmados:
-  - Alejandro Mateo
   - Federico Wagner
   - Andrés Tarallo
-  - Ernesto Silva
-  - Y EL MASTERNECHI????
-
-YA QUE NADIE SE PONE LAS PILAS, copio lo que encontre en los mails:
 
 
 ===== ¿Dónde nos alojamos? =====
@@ -41,17 +36,10 @@ YA QUE NADIE SE PONE LAS PILAS, copio lo que encontre en los mails:
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
-   IDA	 Qua, 16 Abr 08
-   Vôo 7489 	  	
-17:05 	  	Partida 	  	Montevideo (MVD)
-18:20 	  	Chegada 	  	Porto Alegre-RS (POA)		
-			 
-  VUELTA	Dom, 20 Abr 08
-  Vôo 7486 	  	
-23:50 	  	Partida 	  	Porto Alegre-RS (POA)
-01:15 	  	Chegada 	  	Montevideo (MVD) (Próximo Dia)
+^  IDA ^ Qua, 16 Abr 08 ^ Vôo 7489 ^
+|17:05|	Partida|	Montevideo (MVD)|
+|18:20|	Chegada|	Porto Alegre-RS (POA)|
 
-
-BO, APORTEN ALGO AL WIKI, acuérdense que es un wiki, o sea que se logra con la ayuda de TODOS. No es que tengan que pedir permiso para editar. METAN MANO. Es una orden. SÍ, a vos que estas leyendo esto te estoy hablando.
-
-[[Boleto principesco y truchon]]
+^ VUELTA ^Dom, 20 Abr 08 ^ Vôo 7486 ^
+|23:50|	Partida|	Porto Alegre-RS (POA)|
+|01:15|	Chegada|	Montevideo (MVD) (Próximo Dia)|
