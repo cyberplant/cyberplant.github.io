@@ -33,12 +33,13 @@ No confirmados:
 ===== ¿Dónde nos alojamos? =====
 
 
-^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Triple ^ Datos adicionales ^
-|Hotel Real Palace| Centro | R$ 69 | R$ 79|www.realph.com.br|
-|Residencial Jary Apart Hotel| Centro |R$ 99|R$ 115|http://www.residencialjary.com.br|
-|Hotel Umbu*| Centro | R$ 89| R$ 107 |http://www.umbuhotel.com/|
-|Hotel de Trânsito*| 5 cuadras del evento | R$ 95 | R$ 120 | http://www.farrapos.org.br/hotel.htm |
-|Hotel Ritz | Centro | R$ 55 s/CdM, R$ 59 c/CdM | No tiene! | http://www.geocities.com/hotelritz_palegre |
+^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Triple ^ Web ^Datos adicionales ^
+|Hotel Real Palace| Centro | R$ 69 | R$ 79|www.realph.com.br| |
+|Residencial Jary Apart Hotel| Centro |R$ 99|R$ 115|http://www.residencialjary.com.br| |
+|Hotel Umbu*| Centro | R$ 89| R$ 107 |http://www.umbuhotel.com/| |
+|Hotel de Trânsito*| 5 cuadras del evento | R$ 95 | R$ 120 | http://www.farrapos.org.br/hotel.htm | |
+|Hotel Ritz | Centro | R$ 55 s/CdM, R$ 59 c/CdM | No tiene! | http://www.geocities.com/hotelritz_palegre | |
+|Hotel Lar Residence | Centro | R$ 115 | R$ 175 4P | http://www.hotellarresidence.com.br/| Internet incluido, CdM incluido |
 
 *Precios tomados de la agencia de viajes del evento.
 
