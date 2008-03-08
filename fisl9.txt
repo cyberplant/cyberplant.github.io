@@ -25,27 +25,25 @@ Viajan por Gol
 Por su cuenta
   - Helius Ferreira
   - Roberto Allende "Ploneman"
+  - Santiago Ferreira
+
 
 No confirmados:
   - Andrés Tarallo
 
 
 ===== ¿Dónde nos alojamos? =====
+Los precios se obtuvieron directo de los hoteles. El precio es por habitación/dia. Entre parentesis está el precio por habitación/día si nos hacen descuento y el precio en dólares por persona por los 4 días. 
 
+^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Tpl./Qpl. ^ Web ^Datos adicionales ^
+|Hotel Real Palace| Centro | R$ 69 (R$ 55/USD 66) | R$ 79 (R$ 75/USD 60) |www.realph.com.br|CdM, no inet.en hab. |
+|Hotel Lar Residence | Centro | R$ 115 (USD 138) | R$ 175 (USD 105)*| http://www.hotellarresidence.com.br/| CdM, inet. cocina |
+|Hotel Plaza Catedral | Centro | R$ 95 (USD 112) | R$ 135 (USD 79)* | http://www.plazacatedral.com.br/ | CdM, no inet., cocina|
 
-^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Triple ^ Web ^Datos adicionales ^
-|Hotel Real Palace| Centro | R$ 69 | R$ 79|www.realph.com.br| |
-|Residencial Jary Apart Hotel| Centro |R$ 99|R$ 115|http://www.residencialjary.com.br| |
-|Hotel Umbu*| Centro | R$ 89| R$ 107 |http://www.umbuhotel.com/| |
-|Hotel de Trânsito*| 5 cuadras del evento | R$ 95 | R$ 120 | http://www.farrapos.org.br/hotel.htm | |
-|Hotel Ritz | Centro | R$ 55 s/CdM, R$ 59 c/CdM | No tiene! | http://www.geocities.com/hotelritz_palegre | |
-|Hotel Lar Residence | Centro | R$ 115 | R$ 175 4P | http://www.hotellarresidence.com.br/| Internet incluido, CdM incluido |
-
-*Precios tomados de la agencia de viajes del evento.
+*Habitaciones cuadruples en vez de triples.
 
 CdM = café da manha.
 
-http://www.plusturismo.com.br/eventos/eventoFicha.asp?idEvento=85#
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
