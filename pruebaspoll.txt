@@ -1,0 +1,5 @@
+<userpoll prueba>
+Esta es una prueba de poll
+   * Si
+   * No
+</userpoll>
