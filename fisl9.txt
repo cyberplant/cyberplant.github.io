@@ -44,6 +44,12 @@ Los precios se obtuvieron directo de los hoteles. El precio es por habitación/d
 
 CdM = café da manha.
 
+<userpoll Elija el Hotel de la caravana>
+Vote cual de los hoteles prefiere para el alojamiento de la caravana.
+   * Real Palace
+   * Lar Residence
+   * Plaza Catedral
+</userpoll>
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
