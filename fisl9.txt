@@ -46,6 +46,8 @@ El presupuesto del Hotel Master Express gentileza de Marcelo "Alemão" Zunino (m
 
 CdM = café da manha.
 
+[[http://maps.google.com/maps/ms?f=q&hl=es&geocode=&ie=UTF8&msa=0&msid=102365447493393230498.00044720e36221c612de5&ll=-30.040195,-51.210966&spn=0.061076,0.1157&z=13| Ubicación de Hoteles en Porto Alegre]]
+
 <userpoll Elija el Hotel de la caravana>
 Vote cual de los hoteles prefiere para el alojamiento de la caravana.
    * Real Palace
