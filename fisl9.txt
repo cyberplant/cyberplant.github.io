@@ -36,11 +36,13 @@ No confirmados:
 Los precios se obtuvieron directo de los hoteles. El precio es por habitación/dia. Entre parentesis está el precio por habitación/día si nos hacen descuento y el precio en dólares por persona por los 4 días. 
 
 ^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Tpl./Qpl. ^ Web ^Datos adicionales ^
+|Hotel Master Express | Centro | R$ 119 (USD 70) | R$ 109 (USD 64)** | http://www.master-hoteis.com.br | CdM, Inet|
 |Hotel Real Palace| Centro | R$ 69 (R$ 55/USD 66) | R$ 79 (R$ 75/USD 60) |www.realph.com.br|CdM, no inet.en hab. |
 |Hotel Lar Residence | Centro | R$ 115 (USD 138) | R$ 175 (USD 105)*| http://www.hotellarresidence.com.br/| CdM, inet. cocina |
 |Hotel Plaza Catedral | Centro | R$ 95 (USD 112) | R$ 135 (USD 79)* | http://www.plazacatedral.com.br/ | CdM, no inet., cocina|
 
 *Habitaciones cuadruples en vez de triples.
+**Habitaciones singles.
 
 CdM = café da manha.
 
@@ -49,13 +51,14 @@ Vote cual de los hoteles prefiere para el alojamiento de la caravana.
    * Real Palace
    * Lar Residence
    * Plaza Catedral
+   * Master Express
 </userpoll>
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
 ^  IDA ^ Qua, 16 Abr 08 ^ Vôo 7489 ^
-|17:05|	Partida|	Montevideo (MVD)|
-|18:20|	Chegada|	Porto Alegre-RS (POA)|
+|06:10|	Partida|	Montevideo (MVD)|
+|07:30|	Chegada|	Porto Alegre-RS (POA)|
 
 ^ VUELTA ^Dom, 20 Abr 08 ^ Vôo 7486 ^
 |23:50|	Partida|	Porto Alegre-RS (POA)|
