@@ -1,35 +1,31 @@
 ====== Coordinación del viaje al FISL 9 ======
 
 
-
 ==== ¿Quiénes vamos? ====
 
 Viajan por Gol
-  - Luis Eduardo Cortés alias "El 400"
-  - Aníbal Pacheco alias "Riverita"
-  - Gustavo Olaza alias "Garganta"
-  - Verónica Pombo de Olaza alias "la sra del Garganta"
-  - Enrique Verdes "El G@llego"
-  - Álvaro Mouriño "Carita"
-  - Damián Pajares "Damian"
-  - Alejandro Mateo "*"
-  - Carlos Sordeguit "Javaman"
-  - Ernesto Silva "Totonho" (aun no se acreditó el depósito pero vamos a confiar)
-  - Marcelo Zunino "Alemão"      (giro recibido)
-  - Luar Roji "wiki"             (pagado en efectivo)
-  - Gerardo Martín Chavez "*"    (pagado en efectivo)
-  - Gabriel Icasuriaga "Masternechi"     (convenio con Gol)
-  - Gabriela Rodríguez Beron
-  - Evan Henshaw-Plath
+01 - Luis Eduardo Cortés
+02 - Aníbal Pacheco
+03 - Gustavo Olaza
+04 - Verónica Pombo de Olaza
+05 - Enrique Verdes
+06 - Álvaro Mouriño
+07 - Damián Pajares
+08 - Alejandro Mateo
+09 - Carlos Sordeguit
+10 - Ernesto Silva
+11 - Marcelo Zunino
+12 - Luar Roji
+13 - Gerardo Martín Chavez
+14 - Gabriel Icasuriaga
+15 - Gabriela Rodríguez Beron
+16 - Evan Henshaw-Plath
+17 - Andres Tarallo o Martin Cabrera
 
-Por su cuenta
-  - Helius Ferreira
-  - Roberto Allende "Ploneman"
-  - Santiago Ferreira
-
-
-No confirmados:
-  - Andrés Tarallo
+Viajan por su cuenta
+18 - Helius Ferreira desde Montevideo por Bus.
+19 - Roberto Allende desde Cordoba, Argentina por Gol, llegamos a la misma hora a POA asi que nos encontramos en el aeropuerto.
+20 - Santiago Ferreira desde Tacuarembo por Bus
 
 
 
@@ -56,6 +52,7 @@ Vote cual de los hoteles prefiere para el alojamiento de la caravana.
    * Lar Residence
    * Plaza Catedral
    * Master Express
+   * Sigo a la mayoria
 </userpoll>
 
 ===== ¿En qué vamos? =====
