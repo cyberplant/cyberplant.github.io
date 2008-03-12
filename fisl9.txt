@@ -28,11 +28,12 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
 
 
 
+
 ===== ¿Dónde nos alojamos? =====
 Los precios se obtuvieron directo de los hoteles. El precio es por habitación/dia. Entre parentesis está el precio por habitación/día si nos hacen descuento y el precio en dólares por persona por los 4 días. 
 
 ^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Tpl./Qpl. ^ Web ^Datos adicionales ^
-|Hotel Master Express| Centro | R$ 119 (USD 140) | R$ 119 (USD 120)|http://docs.google.com/Doc?id=d4chwbb_77dm2ttkg7| CdM,Inet|
+|Hotel Master Express| Centro | R$ 119 (USD 140) | R$ 119 (USD 140)|http://docs.google.com/Doc?id=d4chwbb_77dm2ttkg7| CdM,Inet|
 |Hotel Real Palace| Centro | R$ 69 (R$ 55/USD 66) | R$ 79 (R$ 75/USD 60) |www.realph.com.br|CdM, no inet.en hab. |
 |Hotel Lar Residence | Centro | R$ 115 (USD 138) | R$ 175 (USD 105)*| http://www.hotellarresidence.com.br/| CdM, inet. cocina |
 |Hotel Plaza Catedral | Centro | R$ 95 (USD 112) | R$ 135 (USD 79)* | http://www.plazacatedral.com.br/ | CdM, no inet., cocina|
