@@ -69,6 +69,7 @@ PASAJES GOL
 |01:15|	Chegada|	Montevideo (MVD) (Próximo Dia)|
 
 
+
 ===== OTROS TEMAS PENDIENTES =====
 
 STAND: 
@@ -78,6 +79,11 @@ Son 6 turnos a repartinos entre todos.
 
 TRANSFERS:
 Una vez tengamos resuelto el tema hotel, debemos averiguar el precio del transfer Aeropuerto-Hotel y viceversa, esta la opcion de un taxi entre 4 que aparentemente saldria menos que un transfer comun.
+  * La opción de contratar en el momento de llegar no es para nada descabellada.
+  * Ir en taxi entre 4 es una opción económica también.
+
 
 OMNIBUS/TAXIS a la PUC:
 Resuelto el tema del hotel averiguar "cuanto costa" un tacho y que bondis pasan cerca. Tambien supongo estara la opcion de las vans.
+  * Los bondis pasan cerca del "Master" y son baratos (hay unos cuantos y lo averiguamos allá).
+  * Un tacho entre cuatro también es barato (el Master está más cerca de la PUCR que el Alfred).
