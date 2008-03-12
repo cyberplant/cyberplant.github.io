@@ -3,6 +3,7 @@
 
 
 
+
 ==== ¿Quiénes vamos? ====
 
 Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo es de U$S 115 y U$S 31 Tasa de embarque en Carrasco.
@@ -19,7 +20,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
   - Ernesto (Totonho) Silva
   - Marcelo Zunino
   - Luar Roji
-  - Gerardo Martín Chaves
+  - Gerardo Martín Chaves Bianchi
   - Gabriel Icasuriaga
   - Gabriela Rodríguez Beron
   - Evan Henshaw-Plath
