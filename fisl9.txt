@@ -3,29 +3,28 @@
 
 ==== ¿Quiénes vamos? ====
 
-Viajan por Gol
-01 - Luis Eduardo Cortés
-02 - Aníbal Pacheco
-03 - Gustavo Olaza
-04 - Verónica Pombo de Olaza
-05 - Enrique Verdes
-06 - Álvaro Mouriño
-07 - Damián Pajares
-08 - Alejandro Mateo
-09 - Carlos Sordeguit
-10 - Ernesto Silva
-11 - Marcelo Zunino
-12 - Luar Roji
-13 - Gerardo Martín Chavez
-14 - Gabriel Icasuriaga
-15 - Gabriela Rodríguez Beron
-16 - Evan Henshaw-Plath
-17 - Andres Tarallo o Martin Cabrera
+Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo es de U$S 115 y U$S 31 Tasa de embarque en Carrasco.
 
-Viajan por su cuenta
-18 - Helius Ferreira desde Montevideo por Bus.
-19 - Roberto Allende desde Cordoba, Argentina por Gol, llegamos a la misma hora a POA asi que nos encontramos en el aeropuerto.
-20 - Santiago Ferreira desde Tacuarembo por Bus
+  - Luis Eduardo Cortés
+  - Aníbal Pacheco
+  - Gustavo Olaza
+  - Verónica Pombo de Olaza
+  - Enrique Verdes
+  - Álvaro Mouriño
+  - Damián Pajares
+  - Alejandro Mateo
+  - Carlos Sordeguit
+  - Ernesto Silva
+  - Marcelo Zunino
+  - Luar Roji
+  - Gerardo Martín Chavez
+  - Gabriel Icasuriaga
+  - Gabriela Rodríguez Beron
+  - Evan Henshaw-Plath
+  - Andres Tarallo o Martin Cabrera
+  - Helius Ferreira desde Montevideo por Bus.
+  - Roberto Allende desde Cordoba, Argentina por Gol, llegamos a la misma hora a POA asi que nos encontramos en el aeropuerto.
+  - Santiago Ferreira desde Tacuarembo por Bus
 
 
 
@@ -64,3 +63,17 @@ PASAJES GOL
 ^ VUELTA ^Dom, 20 Abr 08 ^ Vôo 7486 ^
 |23:50|	Partida|	Porto Alegre-RS (POA)|
 |01:15|	Chegada|	Montevideo (MVD) (Próximo Dia)|
+
+
+===== OTROS TEMAS PENDIENTES =====
+
+STAND: 
+Los grupos que viajamos son UyLug, JugUy, Montevideo Libre y GUDDU-Debian Uruguay.
+Cada grupo debe aportar una o dos personas al stand, Uylug aporta tres o cuatro personas.
+Son 6 turnos a repartinos entre todos.
+
+TRANSFERS:
+Una vez tengamos resuelto el tema hotel, debemos averiguar el precio del transfer Aeropuerto-Hotel y viceversa, esta la opcion de un taxi entre 4 que aparentemente saldria menos que un transfer comun.
+
+OMNIBUS/TAXIS a la PUC:
+Resuelto el tema del hotel averiguar "cuanto costa" un tacho y que bondis pasan cerca. Tambien supongo estara la opcion de las vans.
