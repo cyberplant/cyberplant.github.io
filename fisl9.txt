@@ -24,7 +24,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
   - Gabriel Icasuriaga
   - Gabriela Rodríguez Beron
   - Evan Henshaw-Plath
-  - Andres Tarallo o Martin Cabrera
+  - Martin Cabrera
   - Helius Ferreira desde Montevideo por Bus.
   - Roberto Allende desde Cordoba, Argentina por Gol, llegamos a la misma hora a POA asi que nos encontramos en el aeropuerto.
   - Santiago Ferreira desde Tacuarembo por Bus
@@ -33,6 +33,11 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
 
 
 ===== ¿Dónde nos alojamos? =====
+
+Resultado Final: Se hizo la reserva de 9 apartamentos duplos o casal para los casos necesarios, el costo por apartamento es de U$S 240 los 4 dias, si se queda acompañado el costo es de U$S 120 los 4 dias, cada uno decide si por la diferencia le vale la pena bancarse a otro :)
+
+Dejo el resto de la info para el fisl 10
+
 Los precios se obtuvieron directo de los hoteles. El precio es por habitación/dia. Entre parentesis está el precio por habitación/día si nos hacen descuento y el precio en dólares por persona por los 4 días. 
 
 ^ Nombre ^ Ubicación ^ Habit.Doble^ Habit.Tpl./Qpl. ^ Web ^Datos adicionales ^
@@ -73,7 +78,7 @@ PASAJES GOL
 ===== OTROS TEMAS PENDIENTES =====
 
 STAND: 
-Los grupos que viajamos son UyLug, JugUy, Montevideo Libre y GUDDU-Debian Uruguay.
+Los grupos que viajamos son UyLug, JugUy, Montevideo Libre, GUDDU-Debian Uruguay y Plone Conosur
 Cada grupo debe aportar una o dos personas al stand, Uylug aporta tres o cuatro personas.
 Son 6 turnos a repartinos entre todos.
 
@@ -87,3 +92,16 @@ OMNIBUS/TAXIS a la PUC:
 Resuelto el tema del hotel averiguar "cuanto costa" un tacho y que bondis pasan cerca. Tambien supongo estara la opcion de las vans.
   * Los bondis pasan cerca del "Master" y son baratos (hay unos cuantos y lo averiguamos allá).
   * Un tacho entre cuatro también es barato (el Master está más cerca de la PUCR que el Alfred).
+
+
+Remeras: (planchaModeOn)
+Esta encaminado el tema de hacerse "las propias" remeras, no es obligatorio, tambien se pueden hacer alguna mas para quien uds consideren e incluso para "trocar" con otros grupos de usuarios en "el propio evento".
+
+Basicamente se estuvo de acuerdo de costear entre todos 4 remeras para obsequiar a los 2 cordinadores de grupos del fisl y 2 para los hermanos del Tchelinux.
+
+La idea del diseño:
+
+Espalda: los logos o banners de los cinco grupos que integramos la caravana
+Frente: logo del fisl 9 y leyenda similar a "Caravana Uruguay 2008".
+
+{{linux_2008version1.jpg|}}
