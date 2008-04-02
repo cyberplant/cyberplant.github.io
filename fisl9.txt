@@ -76,6 +76,7 @@ PASAJES GOL
 
 
 
+
 ===== El CHURRASCO de los Nerds =====
 
 El clásico //Churrasco dos Nerds// de todos los años.
@@ -84,8 +85,8 @@ Dicen que el que se porta bien y no nos hace pasar papelones en El Churrasco se 
 
 Viene la lista de comensales yoruguas:
 
-  1.  Verónica Pombo
-  2.  Gustavo Olaza
+  -  Verónica Pombo
+  -  Gustavo Olaza
 
 Hay solo 70 lugares, así que el que no se anota queda abajo de la mesa...
 
