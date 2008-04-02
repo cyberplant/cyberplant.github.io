@@ -63,6 +63,7 @@ Vote cual de los hoteles prefiere para el alojamiento de la caravana.
    * Sigo a la mayoria
 </userpoll>
 
+
 ===== ¿En qué vamos? =====
 PASAJES GOL
 ^  IDA ^ Qua, 16 Abr 08 ^ Vôo 7489 ^
@@ -74,6 +75,18 @@ PASAJES GOL
 |01:15|	Chegada|	Montevideo (MVD) (Próximo Dia)|
 
 
+===== El CHURRASCO de los Nerds =====
+
+El clásico //Churrasco dos Nerds// de todos los años.
+Este año viene solo por invitación y hay que anotarse según nuestro comandante Mastenechi, íntimo de Leo Vaz, inventor y gerente del famoso churrasco.
+Dicen que el que se porta bien y no nos hace pasar papelones en El Churrasco se lleva una camiseta de Tche Linux de regalo.
+
+Viene la lista de comensales yoruguas:
+
+  1.  Verónica Pombo
+  2.  Gustavo Olaza
+
+Hay solo 70 lugares, así que el que no se anota queda abajo de la mesa...
 
 ===== OTROS TEMAS PENDIENTES =====
 
