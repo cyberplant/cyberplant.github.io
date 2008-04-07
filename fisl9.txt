@@ -25,6 +25,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
   - Roberto Allende desde Cordoba, Argentina por Gol, llegamos a la misma hora a POA asi que nos encontramos en el aeropuerto.
   - Santiago Ferreira desde Tacuarembo por Bus
 
+
 ===== ¿Dónde nos alojamos? =====
 
 
@@ -47,6 +48,13 @@ d = dolar comprador al cierre 03-04-2008
 (en pesos uruguayos) / d = en dolares            aprox 143
 
 </code>
+
+Depósitos para reintegrar a Marcelo el pago del hotel:
+
+Nombre                     Operación     Importe     Fecha      Hora
+------                     ---------     -------     -----      ----
+1. Luis Eduardo Cortés     3632          US$ 145     7/4/08     13:05:50
+
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
