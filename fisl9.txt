@@ -27,6 +27,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
 
 
 
+
 ===== ¿Dónde nos alojamos? =====
 
 
@@ -48,15 +49,15 @@ d = dolar comprador al cierre 03-04-2008
  ou
 (en pesos uruguayos) / d = en dolares            aprox 143
 
-
-Depósitos para reintegrar a Marcelo el pago del hotel:
------------------------------------------------------
-
-Nombre                     Operación     Importe     Fecha      Hora
-------                     ---------     -------     -----      ----
-1. Luis Eduardo Cortés     3632          US$ 145     7/4/08     13:05:50
-
 </code>
+
+Depósitos para reintegrar a Marcelo el pago del hotel
+                    
+^ Nombre ^ Operación ^ Importe ^ Fecha ^ Hora ^
+| 1. Luis Eduardo Cortés | 3632 |  US$ 145 | 7/4/08 |13:05:50|
+
+
+hh
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
