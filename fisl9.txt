@@ -52,12 +52,12 @@ d = dolar comprador al cierre 03-04-2008
 </code>
 
 Depósitos para reintegrar a Marcelo el pago del hotel
-                    
 ^ Nombre ^ Operación ^ Importe ^ Fecha ^ Hora ^
-| 1. Luis Eduardo Cortés | 3632 |  US$ 145 | 7/4/08 |13:05:50|
+|Luis Eduardo Cortés| 3632 |  US$ 145| 7/4/08| 13:05:50|
+|Luis Eduardo Cortés| 3632 |  US$ 145| 7/4/08| 13:05:50|
+|Luis Eduardo Cortés| 3632 |  US$ 145| 7/4/08| 13:05:50|
 
 
-hh
 
 ===== ¿En qué vamos? =====
 PASAJES GOL
@@ -96,6 +96,7 @@ Viene la lista de comensales yoruguas:
   -  Carlos Soderguit
   -  Anibal Pacheco
   -  Alvaro "tuxie_" Mouriño
+  -  Ale Mao Vá
 
 Hay solo 70 lugares, así que el que no se anota queda abajo de la mesa...
 
