@@ -72,6 +72,7 @@ Depósitos para reintegrar a Marcelo el pago del hotel
 
 el primero pega dos veces...
 
+
 ===== ¿En qué vamos? =====
 PASAJES GOL
 ^  IDA ^ Qua, 16 Abr 08 ^ Vôo 7489 ^
@@ -84,9 +85,16 @@ PASAJES GOL
 
 
 
+===== REMISES =====
+(especificación de interfase)
 
+^  Equipo ^ 1era. Parada ^ 2da. ^ 3era. ^  Miembros  ^
+| JavitoUy | ... | ... | ... | Ale Mateo, Martin Cabrera, Ariel Ludueña y Carlos Soderguit|
+| G@ye | ... | ... | ... | G@yeGol... |
+| LEC Luisito | ... | ... | ... |Luis, Damián, Alvaro Mourinho (tuxie_), Marcelo Zunino (ale mao)|
+| GOlaza | ... | ... | ... | Gustavo Olaza ....|
 
-
+por favor, fixme, updateme, etc.
 
 
 
