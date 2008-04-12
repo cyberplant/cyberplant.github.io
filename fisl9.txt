@@ -42,6 +42,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
 
 
 
+
 ===== ¿Dónde nos alojamos? =====
 
 
@@ -49,10 +50,9 @@ Resultado Final: Ya nos compramos el hotel! Ahora tenemos que pagarle a emezeta 
 
 [[http://maps.google.com/maps/ms?f=q&hl=es&geocode=&ie=UTF8&msa=0&msid=102365447493393230498.00044720e36221c612de5&ll=-30.040195,-51.210966&spn=0.061076,0.1157&z=13| Ubicación de Hoteles en Porto Alegre]]
 
-Datos para el pago del hotel:
-
+===== Pago del hotel =====
+((pago hotel))
 <code>
-
 cuenta 018 1811314 del Credit Uruguay, Salto.
 
 c = cantidad de personas que nos quedamos no hotel
@@ -62,7 +62,6 @@ d = dolar comprador al cierre 03-04-2008
 4.760,00 x r / c = pesos uruguayos                aprox. 2860
  ou
 (en pesos uruguayos) / d = en dolares            aprox 143
-
 </code>
 
 Depósitos para el pago del hotel. Depositado en: M masternet, A alemao.
