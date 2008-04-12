@@ -81,6 +81,7 @@ Depósitos para el pago del hotel. Depositado en: M masternet, A alemao.
 ánimo muchachos que falta menos que antes!
 
 
+
 ===== ¿En qué vamos? =====
 PASAJES GOL
 ^  IDA ^ Qua, 16 Abr 08 ^ Vôo 7489 ^
@@ -94,6 +95,7 @@ PASAJES GOL
 
 
 
+((remises))
 
 ===== REMISES =====
 ((especificación de interfase))
