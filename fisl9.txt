@@ -41,6 +41,7 @@ Los primeros 17 viajamos por Gol Transportes Aereos, el precio del boleto aereo 
 
 
 
+
 ===== ¿Dónde nos alojamos? =====
 
 
@@ -64,18 +65,18 @@ d = dolar comprador al cierre 03-04-2008
 
 </code>
 
-Depósitos para reintegrar a Marcelo el pago del hotel
-^ Nombre ^ Operación ^ Importe ^ Fecha ^ Hora ^ 
-|Luis Eduardo Cortés| 3632 |  US$ 145| 7/4/08| 13:05:50|
-|Carlos Soderguit| 3575 |  US$ 145| 8/4/08| 12:00:57|
-|Alejandro Mateo| 43455765 |  US$ 145| 8/4/08| 12:37:36|
-|Gustavo Olaza y Verónica Pombo| 9833 |  US$ 400 (*)| 8/4/08 | 17:39:50|
-|Damián Pajares| 9294 |  $ 3.000 | 9/4/08 | 12:55:02|
-|Ernesto Silva|0824972|  U$S 145| 11/4/08| 16:54:25|
-|Enrique M.Verdes |p.directo|  U$S 145| 11/4/08| 17:10:25|
+Depósitos para el pago del hotel. Depositado en: M masternet, A alemao.
+^ Nombre ^ Operación ^ Importe ^ Fecha ^ Hora ^ Cuenta ^ 
+|Luis Eduardo Cortés| 3632 |  US$ 145| 7/4/08| 13:05:50|A|
+|Carlos Soderguit| 3575 |  US$ 145| 8/4/08| 12:00:57|A|
+|Alejandro Mateo| 43455765 |  US$ 145| 8/4/08| 12:37:36|A|
+|Gustavo Olaza y Verónica Pombo| 9833 |  US$ 400(1)| 8/4/08 | 17:39:50|A|
+|Damián Pajares| 9294 |  $ 3.000 | 9/4/08 | 12:55:02|A|
+|Ernesto Silva|0824972|  U$S 145| 11/4/08| 16:54:25| M |
+|Enrique M.Verdes |p.directo|  U$S 145| 11/4/08| 17:10:25|A|
 
 
-(*) us$ 300 hospedajem + uS$ 100 otras coimas (asuntos privados)
+(1) us$ 300 hospedajem + uS$ 100 otras coimas (asuntos privados)
 
 ánimo muchachos que falta menos que antes!
 
