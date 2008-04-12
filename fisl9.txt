@@ -97,8 +97,9 @@ PASAJES GOL
 
 ((remises))
 
+
 ===== REMISES =====
-((especificación de interfase))
+especificación de interfase
 
 ^  Equipo ^ 1era. Parada ^ 2da. ^ 3era. ^  Miembros  ^
 | JavitoUy | ... | ... | ... | Ale Mateo, Martin Cabrera, Ariel Ludueña y Carlos Soderguit|
