@@ -105,6 +105,7 @@ PASAJES GOL
 
 
 
+
 ===== REMISES =====
 especificación de interfase
 
@@ -115,7 +116,7 @@ especificación de interfase
 | the tusis_ | LAHerrera y Raña | 21 y Mora | Rivera y JCesar |Alvaro Mouriño (tuxie_), Marcelo Zunino (ale mao), Luis Eduardo Cortés (Luis Eduardo Cortés) |
 
 
-por favor, fixme, updateme, etc.
+por favor, fixme, fuckme, updateme, etc.
 
 (*) acá tambien serían 5 ...
 
