@@ -102,6 +102,7 @@ PASAJES GOL
 
 
 
+
 ===== REMISES =====
 especificación de interfase
 
@@ -109,7 +110,7 @@ especificación de interfase
 | JavitoUy | ... | ... | ... | Ale Mateo, Martin Cabrera, Ariel Ludueña y Carlos Soderguit|
 | G@ye | ... | ... | ... | (grupo por confirmar) G@yeGol, Luar Roji, Olaza&Sra, Anibal Pacheco (*) |
 | Luisito | ... | ... |Propios y General Flores [[http://maps.google.com/maps?f=q&hl=en&geocode=&q=Montevideo,+Uruguay&ie=UTF8&ll=-34.863187,-56.168804&spn=0.010951,0.034332&z=15 |UTU]]|Luis, Damián, Ernesto (Totonho) Silva|
-| el tusi__ | 21 y C.Mora | Rivera y JCesar| ... |Alvaro Mourinho (tuxie_), Marcelo Zunino (ale mao)|
+| the tusis_ | 21 y C.Mora | Rivera y JCesar| ... |Alvaro Mourinho (tuxie_), Marcelo Zunino (ale mao)|
 
 
 por favor, fixme, updateme, etc.
