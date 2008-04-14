@@ -101,20 +101,24 @@ PASAJES GOL
 
 
 
+
 ===== REMISES =====
 especificación de interfase
 
 ^  Equipo ^ 1era. Parada ^ 2da. ^ 3era. ^  Miembros  ^
 | JavitoUy | ... | ... | ... | Ale Mateo, Martin Cabrera, Ariel Ludueña y Carlos Soderguit|
-| G@ye | ... | ... | ... | (grupo por confirmar) G@yeGol, Luar Roji, Olaza&Sra, Anibal Pacheco  |
-| LEC Luisito | ... | ... | 
-
-Propios y General Flores [[http://maps.google.com/maps?f=q&hl=en&geocode=&q=Montevideo,+Uruguay&ie=UTF8&ll=-34.863187,-56.168804&spn=0.010951,0.034332&z=15 UTU]]|Luis, Damián, Ernesto (Totonho) Silva|
-| el tusi__ | 21 y ellauri | Rivera y JCesar| ... |Alvaro Mourinho (tuxie_), Marcelo Zunino (ale mao)|
+| G@ye | ... | ... | ... | (grupo por confirmar) G@yeGol, Luar Roji, Olaza&Sra, Anibal Pacheco (*) |
+| Luisito | ... | ... |Propios y General Flores [[http://maps.google.com/maps?f=q&hl=en&geocode=&q=Montevideo,+Uruguay&ie=UTF8&ll=-34.863187,-56.168804&spn=0.010951,0.034332&z=15 |UTU]]|Luis, Damián, Ernesto (Totonho) Silva|
+| el tusi__ | 21 y C.Mora | Rivera y JCesar| ... |Alvaro Mourinho (tuxie_), Marcelo Zunino (ale mao)|
 
 
 por favor, fixme, updateme, etc.
 
+(*) acá tambien serían 5 ...
+
+
+Este mapa de 
+[[http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=102365447493393230498.00044a8b0809b8c22421e&ll=-34.883115,-56.154728&spn=0.058439,0.155869&z=13 |direcciones]] está bastante completo. Faltarían algunas direcciones para armar bien remises e itinerarios.
 
 
 
