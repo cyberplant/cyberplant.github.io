@@ -11,6 +11,23 @@ Lista de habitaciones y personas:
 | 804        | G@llego, Totonho                      |
 | 806        | Santiago Ferreira, .......            |
 
+
+ROOMING LIST  
+
+^ NOME                                                  ^ TIPO  ^ APTO ^
+|BAEZ, HECTOR GUSTAVO OLAZA - POMBO, VERONICA LETICIA   | CASAL |  303 | 
+|BERON, GABRIELA RODRIGUEZ HENSHAW - PLATH, EVAN ROBERT | CASAL |  305 |
+|ALLENDE, ROBERTO MARIO - ZUNINO SILVA, MARCELO         | DUPLO |  306 |
+|LABORA, LUAR ROJI - CORTES, LUIS EDUARDO               | DUPLO |  602 |
+|MILAN, ALVARO HERNAN MOURINHO - FERREIRA, SANTIAGO     | DUPLO |  612 |
+|BARBOZA, CARLOS ALBERTO SODERGUIT - MORALES, MARTIN ANDRES CABRERA| DUPLO | 701|
+|LUDUENA, ARIEL RONALDO - SIMEONE, ALEJANDRO MATTEO     | DUPLO | 702  |
+|GARCIA, JUAN DAMIAN PASARES - BIANCHI, GERARDO MARTIN CHAVES | DUPLO | 712 |
+|MIGUEZ, ENRIQU MANUEL VERDES - SILVA, ERNESTO JOSE     | DUPLO | 804|
+
+
+
+
 Ademas les cuento que Kiov y yo compramos chip de Claro en el shopping praia das belas (15 reales).
 
 Nuestros telefonos son: 
