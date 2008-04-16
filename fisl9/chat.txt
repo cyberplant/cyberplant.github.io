@@ -3,6 +3,7 @@ Bueno, YA LLEGAMOS!!!
 Lista de habitaciones y personas:
 
 ^ Habitacion ^ Habitantes                            ^
+| 303        | Gustavo Olaza & Verónica Pombo        |
 | 306        | Roberto Allende, Marcelo Zunino       |
 | 602        | Luis Cortes, Luar Roji                |
 | 701        | Martin Cabrera, Carlos Soderguit      |
