@@ -6,11 +6,12 @@ Lista de habitaciones y personas:
 | 303        | Gustavo Olaza & Verónica Pombo        |
 | 306        | Roberto Allende, Marcelo Zunino       |
 | 602        | Luis Cortes, Luar Roji                |
+| 612        | Tuxie y Santiago Ferreira             |
 | 701        | Martin Cabrera, Carlos Soderguit      |
 | 702        | Ariel Ludueña, Alejandro Mateo        |
 | 712        | Damian Pajares, Gerardo "Kiov" Chaves |
 | 804        | G@llego, Totonho                      |
-| 806        | Santiago Ferreira, .......            |
+
 
 
 ROOMING LIST  
@@ -26,6 +27,10 @@ ROOMING LIST
 |GARCIA, JUAN DAMIAN PASARES - BIANCHI, GERARDO MARTIN CHAVES | DUPLO | 712 |
 |MIGUEZ, ENRIQU MANUEL VERDES - SILVA, ERNESTO JOSE     | DUPLO | 804|
 |MARCELO ZUNINO     | DUPLO | 806|
+
+BUSES
+Totonho é eu conferimos informaćão que recebimos da organizaćão sob o transporte ao FISL.
+Temos o onibus 343 que pasa por la Avda. Joao Pessoa, bem pertinho do hotel.
 
 
 
