@@ -1,0 +1,20 @@
+Bueno, YA LLEGAMOS!!!
+
+Lista de habitaciones y personas:
+
+^ Habitacion ^ Habitantes                            ^
+| 602        | Luis Cortes, Luar Roji                |
+| 701        | Martin Cabrera, Carlos Soderguit      |
+| 702        | Ariel Ludueña, Alejandro Mateo        |
+| 712        | Damian Pajares, Gerardo "Kiov" Chaves |
+| 804        | G@llego, Totonho                      |
+
+Ademas les cuento que Kiov y yo compramos chip de Claro en el shopping praia das belas (15 reales).
+
+Nuestros telefonos son: 
+   * +51 9239 4413 - Kiov
+   * +51 9239 4525 - Luar
+
+El internet en las habitaciones es cableado con un UTP que esta al costado de la puerta, PERO Damian (BIEN DAMIAN!!!) trajo un linksys y estamos viendo de levantar un guayfay. Por lo pronto el SSID viene siendo "fisl9", avisen los que lo vean!
+
+Cualquier informacion que les parezca pueda ser util almacenar metanla aca.
