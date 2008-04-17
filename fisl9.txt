@@ -54,6 +54,7 @@ Resultado Final: Ya nos compramos el hotel! Ahora tenemos que pagarle a emezeta 
 
 
 
+
 ===== Pago del hotel =====
 ((pago hotel))
 <code>
@@ -78,7 +79,10 @@ Depósitos para el pago del hotel. Depositado en: M masternet, A alemao.
 | Ernesto Silva |0824972 | U$S 145 | 11/4/08 | 16:54:25 | M |
 | Enrique M.Verdes | p.directo | U$S 145 | 11/4/08 | 17:10:25 | A |
 | tuxie_ | 7155 | $ 3K (2) | 09/4/08 | 14:59:21 | A |
-| Gerardo Martin Chaves | 6390 | U$S 145 | 14/4/08 | 16:30 aprox. (no encontré la hora) | A |
+| Gerardo Martin Chaves | 6390 | U$S 145 | 14/4/08 | 16:30 aprox. | A |
+| rover | p.directo | us$ 145 | 16/4/08 | 14:59:21 | A |
+| Santiago Ferreira | 30013-2264 | us$ 145 | 14/4/08 | 14:30 aprox. | A |
+| Luar Rojí | p.directo | us$ 145 | 16/4/08 | ¬ | A |
 
 (1) us$ 300 hospedajem + uS$ 100 otras coimas (asuntos privados)
 
