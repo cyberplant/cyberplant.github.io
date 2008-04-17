@@ -1,0 +1,10 @@
+-- Estas son la habitaciones que tenemos --
+
+^ Habitación ^ Persona 1 ^ Persona 2 ^
+| 701 | Martin Cabrera | Carlos Soderguit |
+| 702 | Ariel Ludueña | Ale Mateo | 
+| 712 | Gerardo Martín Chaves | Daminan Pajares | 
+
+A ver si el resto se pone las pilas así por lo menos sabemos donde está cada uno
+
+Para llamar a una habitación: 2 + n. de habitación
