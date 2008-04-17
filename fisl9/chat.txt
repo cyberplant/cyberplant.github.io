@@ -9,9 +9,9 @@ Lista de habitaciones y personas:
 | 612        | Tuxie y Santiago Ferreira             |
 | 701        | Martin Cabrera, Carlos Soderguit      |
 | 702        | Ariel Ludueña, Alejandro Mateo        |
-| 712        | Damian Pajares, Gerardo "Kiov" Chaves |
+| 712        | [[fisl9:chat:freddymercury|Damian Pajares]], Gerardo "Kiov" Chaves |
 | 804        | G@llego, Totonho                      |
-
+{{fisl9:luaratfisl.png|Luar Roji}}
 
 
 ROOMING LIST  
