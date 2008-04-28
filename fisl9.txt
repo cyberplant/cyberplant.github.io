@@ -56,6 +56,7 @@ Resultado Final: Ya nos compramos el hotel! Ahora tenemos que pagarle a emezeta 
 
 
 
+
 ===== Pago del hotel =====
 ((pago hotel))
 <code>
@@ -85,6 +86,11 @@ Depósitos para el pago del hotel. Depositado en: M masternet, A alemao.
 | Santiago Ferreira | 30013-2264 | us$ 145 | 14/4/08 | 14:30 aprox. | A |
 | Luar Rojí | p.directo | us$ 145 | 16/4/08 | ¬ | A |
 | Martín Cabrera y Ariel Ludueña | ??? | us$ 290 | ??? | ¬ | M |
+| Luar | p.directo | us$ 145 | 16/04 | a las 10 | A |
+| Helius | p.directo | 200 reais | 19/4 | a las die' | A |
+
+
+
 
 (1) us$ 300 hospedajem + uS$ 100 otras coimas (asuntos privados)
 
