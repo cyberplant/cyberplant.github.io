@@ -13,8 +13,8 @@ tuxie_ says: Avisen con tiempo.
 
 <code>
 si          = puedo
-siloo          = puedo si lo organiza otro
+siloo       = puedo si lo organiza otro
 en blanco   = no se si puedo 
 no          = no puedo
-ni idea... = no tengo idea de aca en delante si voy a poder
+ni idea...  = no tengo idea de aca en delante si voy a poder
 </code>
