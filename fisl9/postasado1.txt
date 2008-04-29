@@ -1,0 +1,12 @@
+===== CARNICERÍA POST FISL 9 =====
+^  Fislero \ Mayo ^ vie 2 ^ sab 3 ^ dom 4 ^ vie 9 ^ sab 10 ^ dom 11 ^ vie 16 ^ sab 17 ^ dom 18 ^ vie 23 ^ sab 24 ^ dom 25 ^ vie 30 ^ sab 31 ^
+| Totonho |  | | | si | ni idea ... |
+| Anibal  | si | si | si | si | ni idea ... |
+| Luar 'Guarana' Roji | | | | si | ni idea ... |
+
+<code>
+si          = puedo
+en blanco   = no se si puedo 
+no          = no puedo
+ni idea ... = no tengo idea de aca en delante si voy a poder
+</code>
