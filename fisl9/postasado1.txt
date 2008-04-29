@@ -3,6 +3,8 @@
 | Totonho |  | | | si | ni idea ... |
 | Anibal  | si | si | si | si | ni idea ... |
 | Luar 'Guarana' Roji | | | | si | ni idea ... |
+| Luis Cortes | si | si | si | si | si | si | si |
+
 
 <code>
 si          = puedo
