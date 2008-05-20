@@ -1,4 +1,3 @@
-
 Lugar: Spikerman 2324 esq. Republica Dominicana (atras de IMPASA)
 
 Dia: sabado 24 de mayo de 2008
@@ -8,17 +7,16 @@ Hora: de noche
 
 ===== LISTA DE ASISTENTES A LA CARNICERIA =====
 
-Carlos Soderguit
-
-Luis Cortes
-
-Martin Cabrera
+  - Carlos Soderguit
+  - Luis Cortes
+  - Martin Cabrera
+  - Luar Roji
 
 ===== CARNICERÍA POST FISL 9 =====
 ^  Fislero \ Mayo ^ vie 2 ^ sab 3 ^ dom 4 ^ vie 9 ^ sab 10 ^ dom 11 ^ vie 16 ^ sab 17 ^ dom 18 ^ vie 23 ^ sab 24 ^ dom 25 ^ vie 30 ^ sab 31 ^
 | Totonho |  | | | si | ni idea... | | | | | | | | | |
 | Anibal  | si | si | si | si | None | si | si | si | si | si | si | si | si | si |
-| Luar 'Guarana' Roji | | | | si | ni idea... | | | | | | | | | |
+| Luar 'Guarana' Roji | si ((si pudiera viajar en el tiempo)) | tal vez | quizas | si | ne | no | nu | ni | na | si | si | si | si | si |
 | Luis Cortes | si | si | si | si | si | si | | | | | | | | |
 | tuxie_ | no | no | | no | si | si | ni idea... | | | | | | | |
 | Vero & Gus | si | si | si | si | si | | | | | | | | | | 
