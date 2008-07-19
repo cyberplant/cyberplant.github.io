@@ -11,10 +11,12 @@
    * Programming languages: 
       * [[http://www.php.net|PHP]](Advanced)
       * [[http://java.sun.com|Java]](Advanced)
-      * [[http://www.python.org|Python]](Learning)
+      * [[http://www.python.org|Python]](Medium)
       * [[http://www.ruby-lang.org|Ruby]](Learning)
-      * TCL(Basic)
+      * [[http://www.tcl.tk|TCL]](Basic)
       * C(Basic)
+   * Content Management:
+      * [[http://www.django-project.org|DJango]](Medium) 
    * Shell scripting:
       * [[http://www.gnu.org/software/bash/|Bash]](Advanced)
    * Mail Servers: 
@@ -51,7 +53,7 @@
       * [[http://en.wikipedia.org/wiki/VNC|VNC]]
    * Text Editors: [[http://www.vim.org|Vim]](Advanced)
    * WRT54GL Firmwares:
-      * OpenWRT(Basic)
+      * OpenWRT(Medium)
       * DD-WRT(Basic)
    * Other Programming Languages that I've worked with but a lot of years ago:
       * Basic(Advanced)
@@ -64,6 +66,8 @@
   * 2005-today : [[http://www.ateka.com|Ateka]]
     * Linux Servers Administration
     * PHP&MySQL Development
+    * Created applications with Python+Django
+    * Created an inter-country VoIP network with Asterisk
 
   * 1999-today : [[http://cs.com.uy|CompuService S.R.L.]] 
     * Linux Servers Administration
