@@ -61,6 +61,12 @@
       * Pascal(Advanced)
       * Delphi(Medium)
 
+====== What I've done ======
+  * PHP: AddressBook, Stock Manager, Product Catalog Manager, modifications for [[http://www.oscommerce.com|OsCommerce]], etc
+  * Python+Django: An app that keeps track of when employees gets in and out of a building, with a picture and a comment.
+  * Python: For CenterIM, a converter of chatlogs to HTML. (GPLv2)
+  * Java: A Virtual POS for machines with touchscreen, part of an a Electronic Commerce system (ECCS), some other apps using jPOS-EE, etc.
+
 ====== Work background ======
 
   * 2005-today : [[http://www.ateka.com|Ateka]]
