@@ -33,8 +33,9 @@ http://www.master-hoteis.com.br/hoteis/Master_Express_Perimetral/o_hotel.aspx?Nu
 
 (El calculo del total lo hice por 4 días tomando en cuenta que vamos en omnibus, y para los que trabajan es mejor salir el sábado después del evento.)
 
+
 ==== Ubicación de los Hoteles ====
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=102365447493393230498.000466e5a70d00b286bc3&amp;ll=-30.034362,-51.224742&amp;spn=12.429592,10.239745&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?ie=UTF8&amp;msa=0&amp;msid=102365447493393230498.000466e5a70d00b286bc3&amp;ll=-30.034362,-51.224742&amp;spn=12.429592,10.239745&amp;t=h&amp;source=embed" style="color:#0000FF;text-align:left">Ver mapa más grande</a></small>
+[[http://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=102365447493393230498.000466e5a70d00b286bc3&ll=-30.031854,-51.224742&spn=0.012521,0.01914&t=h&z=16|Ver mapa de google.]]
 
 ===== Pago del hotel =====
 
