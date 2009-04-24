@@ -1,0 +1,38 @@
+<html>
+<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/gq07ffYw0lQ&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/gq07ffYw0lQ&hl=en&fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object>
+</html>
+
+<file>
+Hasta la "Hacienda Baguala" calle Aljaguel en "La Seca"
+Música típica para la cuenca del Plata
+En las voces de Daniel Melingo y Cristobal Repetto:
+
+Leonel el feo
+
+Vos sí que sos compadrito
+nunca bajaste el copete
+y solapás tus valores
+con finura y destreza
+
+Se te agigantaron las partes
+pa'poder exagerar
+cuando cantás la milonga
+en la esquina, o en el bar
+
+Sos el de las manos grandes
+pa'poderlas cachetear
+y pa'poder jugar de chico a los trenes
+divertirse y sin complejos en la estación de Retiro.
+
+Te decían "el ofe", te decian "el ofe",
+zorzal jetón,
+por el grandor de tus manos,
+y por tu caripela que me ha intimidado
+y a más de uno espantó.
+
+No te quedes cerca, Edmundo
+cuando estés por aplaudir.
+No te quedes cerca, Edmundo
+cuando esté por aplaudir.
+Haceme caso.
+</file>
