@@ -35,6 +35,7 @@ Cuando FISL apruebe la caravana, el código será enviado a la lista para que lo
 
 
 
+
 ==== Presupuesto Hotel Master Express Perimetral ====
 Ubicado sobre la Avda. Loureiro da Silva, a una cuadra del Master Express Cidade Baixa (que está completo)
 
@@ -44,6 +45,9 @@ http://www.master-hoteis.com.br/hoteis/Master_Express_Perimetral/o_hotel.aspx?Nu
 
 (El calculo del total lo hice por 4 días tomando en cuenta que vamos en omnibus, y para los que trabajan es mejor salir el sábado después del evento.)
 
+==== Presupuesto Albert Express ====
+* R$ 100 p/dia Base Doble (Aprox.USD 46) Total: U$S 92 p/persona los 4 días
+* R$ 120 p/día Base Triple (Aprox.USD 55) Total: U$S 74 p/persona los 4 días
 
 ==== Ubicación de los Hoteles ====
 [[http://maps.google.com/maps/ms?ie=UTF8&msa=0&msid=102365447493393230498.000466e5a70d00b286bc3&ll=-30.031854,-51.224742&spn=0.012521,0.01914&t=h&z=16|Ver mapa de google.]]
