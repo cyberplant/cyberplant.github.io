@@ -76,7 +76,7 @@
     * Linux Servers Administration
     * Java Development
         * Electronic Commerce (ECCS)
-        * Critical Financial Systems using jPOS and jPOS-EE
+        * Critical Financial Systems using jPOS (ISO-8583 library) and jPOS-EE
 
   * 1998-1999 : Colegio Nacional Jose Pedro Varela as computers room manager
     * I was in charge of 5 computer labs (~100PCs), for students.
@@ -98,8 +98,6 @@
 We're creating a local wireless community here. I don't have my node online yet
 but soon I will. 
 
-I've helped (not so much) with the development of a IRC bot called Uma, in TCL.
-
   * For more info: [[http://www.montevideolibre.org|MontevideoLibre]]
   * My personal page there: [[http://www.montevideolibre.org/integrantes:cyberplant|CyberPlant]]
   * My node page: [[http://www.montevideolibre.org/nodos:warpzone|WarpZone]]
@@ -112,4 +110,3 @@ I've helped (not so much) with the development of a IRC bot called Uma, in TCL.
    * [[http://www.roji.net/PublicStuff/luar.asc|My GPG Public Key]]
    * [[http://www.google.com/search?q=%22Luar%20Roji%22|What Google Knows about me]]
    * [[http://wiki.roji.net/cv:nostalgia|My Nostalgia page]]
-
