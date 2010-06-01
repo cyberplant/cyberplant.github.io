@@ -25,11 +25,11 @@
       * [[http://www.mysql.org|MySQL]]
       * [[http://www.postgresql.org|PostgreSQL]]
    * Financial (ISO-8583): [[http://www.jpos.org|jPOS]](Developer)
-   * VoIP: [[http://www.asterisk.org|Asterisk]](Advanced)
+   * VoIP: [[http://www.asterisk.org|Asterisk]]
    * DNS Servers: [[http://www.powerdns.com|PowerDNS]]
    * Security Surveillance Systems: 
-      * [[http://www.zoneminder.com|ZoneMinder]](Medium) - One Linux server with Four IP Cameras
-   * LDAP: [[http://www.openldap.org|OpenLDAP]](Medium)
+      * [[http://www.zoneminder.com|ZoneMinder]] - One Linux server with Four IP Cameras
+   * LDAP: [[http://www.openldap.org|OpenLDAP]]
    * VPNs: [[http://www.openvpn.org|OpenVPN]]
    * Operating Systems: 
       * Linux:
@@ -48,7 +48,7 @@
    * Remote Access: 
       * [[http://ssh.org|OpenSSH]]
       * [[http://en.wikipedia.org/wiki/VNC|VNC]]
-   * Text Editors: [[http://www.vim.org|Vim]](Advanced)
+   * Text Editors: [[http://www.vim.org|Vim]]
    * WRT54GL Firmwares:
       * OpenWRT
       * DD-WRT
