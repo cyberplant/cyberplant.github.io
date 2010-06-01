@@ -2,42 +2,39 @@
 
    * Full Name: Luar Roji Labora
    * Email: luar -at- roji.net  / cyberplant -at- roji.net
-   * Phone: +598 2 9290161
-   * Cell Phone: +598 99 120467
    * Residence Country: Uruguay
 
 ====== Skills ======
 
    * Programming languages: 
-      * [[http://www.php.net|PHP]](Advanced)
-      * [[http://java.sun.com|Java]](Advanced)
-      * [[http://www.python.org|Python]](Medium)
-      * [[http://www.ruby-lang.org|Ruby]](Learning)
-      * [[http://www.tcl.tk|TCL]](Basic)
-      * C(Basic)
+      * [[http://www.php.net|PHP]]
+      * [[http://java.sun.com|Java]]
+      * [[http://www.python.org|Python]]
+      * [[http://www.tcl.tk|TCL]]
+      * C
    * Content Management:
-      * [[http://www.django-project.org|DJango]](Medium) 
+      * [[http://www.django-project.org|DJango]]
    * Shell scripting:
-      * [[http://www.gnu.org/software/bash/|Bash]](Advanced)
+      * [[http://www.gnu.org/software/bash/|Bash]]
    * Mail Servers: 
-      * [[http://cr.yp.to/qmail.html|qmail]](Advanced)
-      * [[http://www.postfix.org|postfix]](Advanced)
+      * [[http://cr.yp.to/qmail.html|qmail]]
+      * [[http://www.postfix.org|postfix]]
    * Web Servers: 
-      * [[http://www.apache.org|Apache and Apache2]](Advanced)
+      * [[http://www.apache.org|Apache and Apache2]]
    * Databases: 
-      * [[http://www.mysql.org|MySQL]](Advanced)
-      * [[http://www.postgresql.org|PostgreSQL]](Basic)
+      * [[http://www.mysql.org|MySQL]]
+      * [[http://www.postgresql.org|PostgreSQL]]
    * Financial (ISO-8583): [[http://www.jpos.org|jPOS]](Developer)
    * VoIP: [[http://www.asterisk.org|Asterisk]](Advanced)
-   * DNS Servers: [[http://www.powerdns.com|PowerDNS]](Advanced)
+   * DNS Servers: [[http://www.powerdns.com|PowerDNS]]
    * Security Surveillance Systems: 
       * [[http://www.zoneminder.com|ZoneMinder]](Medium) - One Linux server with Four IP Cameras
    * LDAP: [[http://www.openldap.org|OpenLDAP]](Medium)
-   * VPNs: [[http://www.openvpn.org|OpenVPN]](Medium)
+   * VPNs: [[http://www.openvpn.org|OpenVPN]]
    * Operating Systems: 
       * Linux:
-         * [[http://www.debian.org|Debian]](Advanced)
-         * [[http://www.ubuntu.org|Ubuntu]](Advanced)
+         * [[http://www.debian.org|Debian]]
+         * [[http://www.ubuntu.org|Ubuntu]]
       * Windows:
          * Windows 3.0/3.1
          * Windows 95/98/Millenium
@@ -46,20 +43,20 @@
    * Software RAID:
       * Have a few servers with Raid Level 1 in Debian Linux using md
    * IM (Jabber/XMPP):
-      * [[http://jabberd.jabberstudio.org/|jabberd]](Medium)
-      * [[http://www.igniterealtime.org/projects/openfire/index.jsp|OpenFire]](Advanced)
+      * [[http://jabberd.jabberstudio.org/|jabberd]]
+      * [[http://www.igniterealtime.org/projects/openfire/index.jsp|OpenFire]]
    * Remote Access: 
       * [[http://ssh.org|OpenSSH]]
       * [[http://en.wikipedia.org/wiki/VNC|VNC]]
    * Text Editors: [[http://www.vim.org|Vim]](Advanced)
    * WRT54GL Firmwares:
-      * OpenWRT(Medium)
-      * DD-WRT(Basic)
+      * OpenWRT
+      * DD-WRT
    * Other Programming Languages that I've worked with but a lot of years ago:
-      * Basic(Advanced)
-      * Clipper(Advanced, with a diploma (my only one!) but don't remember so much)
-      * Pascal(Advanced)
-      * Delphi(Medium)
+      * Basic
+      * Clipper (with a diploma (my only one!) but don't remember so much)
+      * Pascal
+      * Delphi
 
 ====== What I've done ======
   * PHP: AddressBook, Stock Manager, Product Catalog Manager, modifications for [[http://www.oscommerce.com|OsCommerce]], etc
