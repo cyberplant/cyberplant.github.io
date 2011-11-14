@@ -52,11 +52,11 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
 
 ==Wetter==
 
-e Sonne - Sol - Es ist sonnig
-e Wolke - Nube - Es ist bew"olkt
-Regen - Lluvia - Es regnet
-Kalt - Frio - Es ist Kalt
-Hitze - Calor - Es ist heiB
-Wind - Viento - Es ist windig
-Schnee - Nieve - Es schneit
+  *  e Sonne - Sol - Es ist sonnig
+  *  e Wolke - Nube - Es ist bew"olkt
+  *  Regen - Lluvia - Es regnet
+  *  Kalt - Frio - Es ist Kalt
+  *  Hitze - Calor - Es ist heiB
+  *  Wind - Viento - Es ist windig
+  *  Schnee - Nieve - Es schneit
 
