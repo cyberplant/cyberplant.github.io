@@ -29,7 +29,7 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
   *  grau - gris
   *  rosa - rosado
   *  schwarz - negro
-  *  weiB - blanco
+  *  weiß - blanco
   *  bunt - colorido
   *  hellgrün - verde claro
   *  dunkelblau - azul oscuro
@@ -37,16 +37,16 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
 ==Sagen, was gefällt/nicht gefällt==
 {{cuadros_aleman_editado.jpg?476.6x306,|cuadro}}
 
-==Mehr Adjektive, W"orter==
+==Mehr Adjektive, Wörter==
 
 ^Adjektive^Significado^     ^Wort^Significado^
-| shick | Elegante|         |Gr"oBe|Talle|
+|shick|Elegante|            |Größe|Talle|
 |altmodisch|Pasado de Moda| |bequem|Conveniente|
-|h"asslich| Horrible|       |s Leder|Cuero|
+|hässlich| Horrible|        |s Leder|Cuero|
 |lang|Largo|                |r Stoff|Tela|
 |kurz|Corto|                |e Wolle|Lana|
 |teuer|Caro|                |r Schuster|Zapatero|
 |billig|Barato|             |kariert|Cuadriculado|
 |klein|Chico|
-|groB|Grande|
+|groß|Grande|
 
