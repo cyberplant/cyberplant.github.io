@@ -1,0 +1,40 @@
+====Resumen Test 11====
+
+===Vocabulario===
+
+==Kleidung==
+
+^der^Significado^         ^die^Significado^   ^das^Significado^
+|Pullover,=|Pulover |     |Hose,n|Pantalon|   |Kleid,er|Vestido|
+|Hemd,en| Camisa   |      |Bluse,n|Blusa|     |T-shirt,s|Remera|
+|Mantel,"| Abrigo |       |Jacke,n| Campera|  |Top|Musculosa|
+|Anzug,"e| Traje |        |Krawatte|Corbata|
+|Rock,"e|Pollera |        |Mütze,n|Gorro|
+|Schuh,e|Zapato |
+|Stiefel,=| Bota |
+|Jeans,=| Jeans |
+
+TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
+
+==Farben==
+
+  *  rot - rojo
+  *  blau - azul
+  *  gelb - amarillo
+  *  grün - verde
+  *  braun - marron
+  *  orange - naranja
+  *  violett - violeta
+  *  türkis - turquesa
+  *  grau - gris
+  *  rosa - rosado
+  *  schwarz - negro
+  *  weiB - blanco
+  *  bunt - colorido
+  *  hellgrün - verde claro
+  *  dunkelblau - azul oscuro
+
+==Sagen, was gefällt/nicht gefällt==
+{{cuadros_aleman_editado.jpg?476.6x306,|cuadro}}
+
+
