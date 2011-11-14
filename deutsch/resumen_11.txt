@@ -60,3 +60,18 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
   *  Wind - Viento - Es ist windig
   *  Schnee - Nieve - Es schneit
 
+===Gramatik===
+
+^Nominativ^^^
+|  | Bestimmted |Umbestimmted|
+^der| -e|-er| 
+^das| -e| -es|
+^die| -e| -e|
+^Plural| -en | -e|
+
+^Akkusativ^^^
+|  | Bestimmted |Umbestimmted|
+^der| -en|-en| 
+^das| -e| -es|
+^die| -e| -e|
+^Plural| -en | -e|
