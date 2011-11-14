@@ -37,16 +37,16 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
 ==Sagen, was gefällt/nicht gefällt==
 {{cuadros_aleman_editado.jpg?476.6x306,|cuadro}}
 
-==Mehr Adjektive==
+==Mehr Adjektive, W"orter==
 
-^Adjektive^Significado^
-| shick | Elegante|
-|altmodisch|Pasado de Moda|
-|h"asslich| Horrible|
-|lang|Largo|
-|kurz|Corto|
-|teuer|Caro|
-|billig|Barato|
+^Adjektive^Significado^     ^Wort^Significado^
+| shick | Elegante|         |Gr"oBe|Talle|
+|altmodisch|Pasado de Moda| |bequem|Conveniente|
+|h"asslich| Horrible|       |s Leder|Cuero|
+|lang|Largo|                |r Stoff|Tela|
+|kurz|Corto|                |e Wolle|Lana|
+|teuer|Caro|                |r Schuster|Zapatero|
+|billig|Barato|             |kariert|Cuadriculado|
 |klein|Chico|
 |groB|Grande|
 
