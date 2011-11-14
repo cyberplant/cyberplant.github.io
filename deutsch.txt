@@ -1,4 +1,4 @@
 Esta pagina esta creada desde hace mucho. 
 
-[[deutsch:resumen_9|Resumen Test 9]]
-[[deutsch:resumen_11|Resumen Test 11]]
+   * [[deutsch:resumen_9|Resumen Test 9]]
+   * [[deutsch:resumen_11|Resumen Test 11]]
