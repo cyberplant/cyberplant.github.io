@@ -37,4 +37,16 @@ TIP: Recordar que todos los que terminan en 'e', en este caso, son femeninos :)
 ==Sagen, was gefällt/nicht gefällt==
 {{cuadros_aleman_editado.jpg?476.6x306,|cuadro}}
 
+==Mehr Adjektive==
+
+^Adjektive^Significado^
+| shick | Elegante|
+|altmodisch|Pasado de Moda|
+|h"asslich| Horrible|
+|lang|Largo|
+|kurz|Corto|
+|teuer|Caro|
+|billig|Barato|
+|klein|Chico|
+|groB|Grande|
 
