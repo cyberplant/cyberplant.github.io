@@ -1,0 +1,17 @@
+====Resumen Test 11====
+
+===Vocabulario===
+
+==Der Köper==
+
+^der^Significado^         ^das^Significado^      ^die^Significado^
+|FuB,"e    | Pie      |   | Ohr,en | Oreja   |   | Nase, | Nariz |    
+|Bauch,"e  | Vientre  |   | Haar,e | Pelo    |
+|Mund,"er  | Boca     |   | Bein,  | Pierna  |
+|Hals,"e   | Cuello   |   | Knie,= | Rodilla |
+|Ellbogen, | Codo     |   | Auge,n | Ojo     |
+|Rücken,   | Espalda  |
+|Finger,=  | Dedo     |
+|Kopf,"e   | Cabeza   |
+|Arm,      | Brazo    |
+|Zeh,      | Dedo pie |
