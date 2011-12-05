@@ -27,6 +27,9 @@
 | abholen        | Recojer        |
 | kennen lernen  | Conocerse      |
 | langweilst     | Aburrirse      | 
+| e Erkältung    | 
+| s Medikament   | Medicamento    |
+| s Rezept       | Receta         |
 
 ===Gramatik===
 
