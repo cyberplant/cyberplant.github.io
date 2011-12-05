@@ -17,12 +17,16 @@
 |Zeh,      | Dedo pie |
 
 ^Wort^Significado^
-| e Gesundheit   | Salud      |
-| r Schmerz      | Dolor      |
-| e Krankheit    | Enfermedad |
-| verichern      | Asegurar   |
-| e Versicherung | Seguro     |
-| zeigen         | Mostrar    |
+| e Gesundheit   | Salud          |
+| r Schmerz      | Dolor          |
+| e Krankheit    | Enfermedad     |
+| verichern      | Asegurar       |
+| e Versicherung | Seguro         |
+| zeigen         | Mostrar        |
+| ausleihen      | Pedir prestado |
+| abholen        | Recojer        |
+| kennen lernen  | Conocerse      |
+| langweilst     | Aburrirse      | 
 
 ===Gramatik===
 
