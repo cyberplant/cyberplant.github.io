@@ -15,3 +15,47 @@
 |Kopf,"e   | Cabeza   |
 |Arm,      | Brazo    |
 |Zeh,      | Dedo pie |
+
+^Wort^Significado^
+| e Gesundheit   | Salud      |
+| r Schmerz      | Dolor      |
+| e Krankheit    | Enfermedad |
+| verichern      | Asegurar   |
+| e Versicherung | Seguro     |
+| zeigen         | Mostrar    |
+
+===Gramatik===
+
+==Imperativ==
+
+Regeln:
+
+Sie:
+   *Verb Position I
+   *Person "Sie" wird immer gennant
+     
+ Nehmen Sie sich Zeit zum essen\\
+ Trinken Sie viel und oft!\\
+ Essen Sie wennig Fleisch\\
+
+Ihr:
+   *Verb Position I
+   *Verb bleibt gleich
+   *Kein Ihr
+
+Du:
+  *Verb Position I
+  *"Du" muss ich nicht sagen
+
+Nimm dir Zeit zum essen!\\
+Trink viel und oft!\\
+Iss wennig Fleisch\\
+
+**Ejemplos con el verbo sein:**
+
+Du: Sei ruhig\\
+Ihr: Seid bitte ruhig\\
+Sie: Seien Sie ruhig\\
+
+
+
