@@ -55,13 +55,13 @@ Nimm dir Zeit zum essen!\\
 Trink viel und oft!\\
 Iss wennig Fleisch\\
 
-**Ejemplos con el verbo sein:**
+__Ejemplos con el verbo sein:__
 
 Du: Sei ruhig\\
 Ihr: Seid bitte ruhig\\
 Sie: Seien Sie ruhig\\
 
-==**Personal Pronomen**==
+==Personal Pronomen==
 
 ^Nominativ^Akkusativ^
 | ich       | mich    |
