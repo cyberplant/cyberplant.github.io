@@ -68,11 +68,11 @@ Sie: Seien Sie ruhig\\
 ==Personal Pronomen==
 
 ^Nominativ^Akkusativ^
-| ich       | mich    |
-| du        | dich    |
-| er/sie/es | ihr     |
-| wir       | uns     |
-| ihr       | euch    |
-| Sie/sie   | Sie/sie |
+| ich       | mich       |
+| du        | dich       |
+| er/sie/es | ihn/sie/es |
+| wir       | uns        |
+| ihr       | euch       |
+| Sie/sie   | Sie/sie    |
 
 
