@@ -1,20 +1,21 @@
 ====Resumen Test 11====
 
 ===Vocabulario===
-
 ==Der Köper==
 
-^der^Significado^         ^das^Significado^      ^die^Significado^
-|FuB,"e    | Pie      |   | Ohr,en | Oreja   |   | Nase, | Nariz |    
-|Bauch,"e  | Vientre  |   | Haar,e | Pelo    |
-|Mund,"er  | Boca     |   | Bein,  | Pierna  |
-|Hals,"e   | Cuello   |   | Knie,= | Rodilla |
-|Ellbogen, | Codo     |   | Auge,n | Ojo     |
-|Rücken,   | Espalda  |
-|Finger,=  | Dedo     |
-|Kopf,"e   | Cabeza   |
-|Arm,      | Brazo    |
-|Zeh,      | Dedo pie |
+^der^Significado^           ^das^Significado^           ^die^Significado^
+| FuB,¨e    | Pie      |   | Ohr,en     | Oreja   |   | Nase,      | Nariz    |     
+| Bauch,¨e  | Vientre  |   | Haar,e     | Pelo    |   | Brust,     | Pecho    |
+| Mund,¨er  | Boca     |   | Bein,      | Pierna  |   | Schulter   | Hombro   |
+| Hals,¨e   | Cuello   |   | Knie,=     | Rodilla |   | Hand,¨e    | Mano     |
+| Ellbogen, | Codo     |   | Auge,n     | Ojo     |   | Zunge,n    | Lengua   |
+| Rücken,   | Espalda  |   | GesäB      | Cola    |   | Lippe,n    | Labios   |
+| Finger,=  | Dedo     |   | Handgelenk | Muñeca  |   | Wange,n    | Mejilla  |  
+| Kopf,¨e   | Cabeza   |   | FuBgelenk  | Tobillo |   | Wimper     | Pestañas |
+| Arm,      | Brazo    |   | Kinn       | Pera    |   | Augenbraue | Ceja     | 
+| Zeh,en    | Dedo pie |                              | Stirn      | Frente   |
+| Zahn      | Diente   |
+| Bart      | Barba    |   
 
 ^Wort^Significado^
 | e Gesundheit   | Salud          |
