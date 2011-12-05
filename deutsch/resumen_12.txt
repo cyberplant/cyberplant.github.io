@@ -57,5 +57,12 @@ Du: Sei ruhig\\
 Ihr: Seid bitte ruhig\\
 Sie: Seien Sie ruhig\\
 
+^Nominativ^Akkusativ^
+| ich       | mich    |
+| du        | dich    |
+| er/sie/es | ihr     |
+| wir       | uns     |
+| ihr       | euch    |
+| Sie/sie   | Sie/sie |
 
 
