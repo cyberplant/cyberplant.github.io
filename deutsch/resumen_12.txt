@@ -61,6 +61,8 @@ Du: Sei ruhig\\
 Ihr: Seid bitte ruhig\\
 Sie: Seien Sie ruhig\\
 
+**==Personal Pronomen==**
+
 ^Nominativ^Akkusativ^
 | ich       | mich    |
 | du        | dich    |
