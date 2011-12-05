@@ -6,9 +6,9 @@
 
 ^der^Significado^         ^die^Significado^   ^das^Significado^
 |Pullover,=|Pulover |     |Hose,n|Pantalon|   |Kleid,er|Vestido|
-|Hemd,en| Camisa   |      |Bluse,n|Blusa|     |T-shirt,s|Remera|
+|Jeans,=| Jeans|          |Bluse,n|Blusa|     |T-shirt,s|Remera|  
 |Mantel,"| Abrigo |       |Jacke,n| Campera|  |Top|Musculosa|
-|Anzug,"e| Traje |        |Krawatte|Corbata|
+|Anzug,"e| Traje |        |Krawatte|Corbata|  |Hemd,en| Camisa   |
 |Rock,"e|Pollera |        |Mütze,n|Gorro|
 |Schuh,e|Zapato |
 |Stiefel,=| Bota |
