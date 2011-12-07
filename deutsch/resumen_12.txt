@@ -38,7 +38,7 @@
 
 ==Redemittel==
  
-{{ :deutsch:cuadros_aleman2.jpg?468x359, | cuadro }}
+{{ cuadros_aleman2.jpg?468x359, | cuadro }}
 
 ----
 
