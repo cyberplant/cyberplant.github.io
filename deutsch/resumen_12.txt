@@ -31,6 +31,9 @@
 | e Erkältung    | 
 | s Medikament   | Medicamento    |
 | s Rezept       | Receta         |
+| husten         | Toser          |
+| rauchen        | Fumar          |
+| klettern       | Escalar        |
 
 ===Gramatik===
 
@@ -85,7 +88,4 @@ Sie: Seien Sie ruhig\\
 ^ ihr       | müsst  | dürft  | mögt  |
 ^ Sie/sie   | müssen | dürfen | mögen |
 
-husten - toser
-rauchen - fumar
-klettern - escalar
 
