@@ -22,14 +22,14 @@
 | e Gesundheit   | Salud          |
 | r Schmerz      | Dolor          |
 | e Krankheit    | Enfermedad     |
-| verichern      | Asegurar       |
+| versichern     | Asegurar       |
 | e Versicherung | Seguro         |
 | zeigen         | Mostrar        |
 | ausleihen      | Pedir prestado |
 | abholen        | Recojer        |
 | kennen lernen  | Conocerse      |
 | langweilst     | Aburrirse      | 
-| e Erkältung    | 
+| e Erkältung    | Resfriado      |
 | s Medikament   | Medicamento    |
 | s Rezept       | Receta         |
 | husten         | Toser          |
