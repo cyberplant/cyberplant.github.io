@@ -1,12 +1,13 @@
+
 ====Resumen Test 11====
 
 ===Vocabulario===
 ==Der Köper==
 
-^der^Significado^       :::    ^das^Significado^           ^die^Significado^
+^der^Significado^             ^das^Significado^           ^die^Significado^
 | FuB,¨e    | Pie      |   | Ohr,en     | Oreja   |   | Nase,      | Nariz    |     
 | Bauch,¨e  | Vientre  |   | Haar,e     | Pelo    |   | Brust,     | Pecho    |
-| Mund,¨er  | Boca     |:::| Bein,      | Pierna  |   | Schulter   | Hombro   |
+| Mund,¨er  | Boca     |   | Bein,      | Pierna  |   | Schulter   | Hombro   |
 | Hals,¨e   | Cuello   |   | Knie,=     | Rodilla |   | Hand,¨e    | Mano     |
 | Ellbogen, | Codo     |   | Auge,n     | Ojo     |   | Zunge,n    | Lengua   |
 | Rücken,   | Espalda  |   | GesäB      | Cola    |   | Lippe,n    | Labios   |
@@ -35,7 +36,11 @@
 | rauchen        | Fumar          |
 | klettern       | Escalar        |
 
-{{ :deutsch:cuadros_aleman2.jpg?468x359 |}}
+==Redemittel==
+ 
+{{ :deutsch:cuadros_aleman2.jpg?468x359, | cuadro }}
+
+----
 
 ===Gramatik===
 
