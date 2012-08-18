@@ -1,3 +1,7 @@
+====== Página homenaje a Rabito - Rubén Suarez Canoniero ======
+
+La idea acá es listar canciones y linkear eventos a los que hemos concurrido con algún coro dirigido por Rabito.
+
 ====== Lista de canciones ======
 
    * [[rsc:canciones:Santa Marta|Santa Marta]]
