@@ -1,5 +1,6 @@
 ====== Un Velero Llamado Libertad ======
 
+<file>
 Ayer se fue, 
 tomó sus cosas y se puso a navegar, 
 una camisa, un pantalón vaquero, 
@@ -16,27 +17,34 @@ Y se marchó,
 y a su barco le llamó Libertad, 
 y en el cielo descubrió gaviotas, 
 y pintó, estelas en el mar. 
+
 Y se marchó, 
 y a su barco le llamó Libertad, 
 y en el cielo descubrió gaviotas, 
 y pintó, estelas en el mar. 
+
 Su corazón, 
 buscó una forma diferente de vivir, 
 pero las olas le gritaron: vete, 
 con los demás, nai na na, con los demás. 
+
 Y se durmió, 
 y la noche le gritó: donde vas, 
 y en sus sueños dibujó gaviotas, 
 y pensó, hoy debo regresar. 
+
 Y regresó, 
 y una voz le preguntó: como estás, 
 y al mirarla descubrió, 
 unos ojos, nai na na, azules como el mar. 
+
 Y se marchó, 
 y a su barco le llamó Libertad, 
 y en el cielo descubrió gaviotas, 
 y pintó, estelas en el mar. 
+
 Y se marchó, 
 y a su barco le llamó Libertad, 
 y en el cielo descubrió gaviotas, 
 y pintó, estelas en el mar.
+</file>
