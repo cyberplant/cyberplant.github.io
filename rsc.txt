@@ -1,5 +1,6 @@
 ====== Lista de canciones ======
 
-   * Santa Marta
+   * [[rsc:canciones:Santa Marta|Santa Marta]]
    * Zamba de Usted
    * Los Mareados
+   * La Otra España
