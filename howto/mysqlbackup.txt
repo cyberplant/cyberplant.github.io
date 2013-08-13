@@ -1,15 +1,21 @@
 Primero hacer el dump de todas las bases de datos (mas info en ((http://dba.stackexchange.com/questions/19532/safest-way-to-perform-mysqldump-on-a-live-system-with-active-reads-and-writes))):
 
-  # mysqldump --single-transaction --routines --triggers --all-databases | bzip2 > all_dbs.sql.bz2
+<code bash>
+mysqldump --single-transaction --routines --triggers --all-databases | bzip2 > all_dbs.sql.bz2
+</code>
 
 Luego copiar el archivo all_dbs.sql.bz2 al nuevo servidor de base de datos.
 
 En el nuevo servidor simplemente hay que ejecutar:
 
-  # bunzip2 -c all_dbs.sql.bz2 | mysql -f
+<code bash>
+bunzip2 -c all_dbs.sql.bz2 | mysql -f
+</code>
 
 Posteriormente copiar los usuarios y sus permisos (mas info en ((http://www.cyberciti.biz/tips/move-mysql-users-privileges-grants-from-one-host-to-new-host.html))):
 
-  # mysql -B -N -e "SELECT user, host FROM user" mysql | sed "s/^\(.*\)[ \t]\(.*\)$/show grants for '\1@\2'/" | mysql | grep GRANT | uniq
+<code bash>
+mysql -B -N -e "SELECT user, host FROM user" mysql | sed "s/^\(.*\)[ \t]\(.*\)$/show grants for '\1@\2'/" | mysql | grep GRANT | uniq
+</code>
 
 Copiar esa informacion al nuevo servidor, a una consola de MySQL y voila.
