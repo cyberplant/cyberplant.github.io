@@ -15,7 +15,7 @@ bunzip2 -c all_dbs.sql.bz2 | mysql -f
 Posteriormente copiar los usuarios y sus permisos (mas info en ((http://www.cyberciti.biz/tips/move-mysql-users-privileges-grants-from-one-host-to-new-host.html))):
 
 <code bash>
-mysql -B -N -e "SELECT user, host FROM user" mysql | sed "s/^\(.*\)[ \t]\(.*\)$/show grants for '\1@\2'/" | mysql | grep GRANT | uniq | sed "s/$/;/"
+mysql -B -N -e "SELECT user, host FROM user" mysql | sed "s/^\(.*\)[ \t]\(.*\)$/show grants for '\1'@'\2';/" | mysql | grep GRANT | uniq | sed "s/$/;/"
 </code>
 
 Copiar esa informacion al nuevo servidor, a una consola de MySQL y voila.
