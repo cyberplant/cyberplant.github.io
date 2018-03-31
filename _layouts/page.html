@@ -1,0 +1,85 @@
+---
+layout: default
+---
+<script language="Javascript">
+  var base_path = "http://wiki.roji.net/";
+  var index_wikiname = "index";
+
+  function render(data) {
+      var contents_div = document.getElementById("main");
+      //console.log(data);
+      processed_data = [];
+      exploded_data = data.split("\n");
+      var ul_started = false;
+
+      exploded_data.forEach(function (line) {
+
+          function _fix(s) {
+              return s.replace(":", "/").replace(/ /g, "_").replace(/[\(\)]/g, "").toLowerCase();
+          }
+
+          function _replacement(match, p1, offset, string) {
+              if (p1.search(/\|/)>0) {
+                  splitted = p1.split("|");
+                  filename = _fix(splitted[0]);
+                  title = splitted[1];
+              } else {
+                  var filename = _fix(p1);
+                  var title = filename;
+              }
+              return "<a href=\"#" + filename +"\">" + title + "</a>";
+          }
+          console.log("line:", line);
+
+          if (line.search(/^  \*/)>=0) {
+              console.log("Ul found");
+              if (!ul_started) { 
+                  processed_data.push("<ul>");
+                  ul_started = true;
+              }
+              line = line.replace(/^(  \* )(.*)$/, "  <li>$2</li>");
+          } else if (ul_started) {
+              processed_data.push("</ul>");
+              ul_started = false;
+          }
+
+          if (line.search("\\[\\[")>0) {
+              var re = /\[\[([^\]]*)\]\]/g;
+              line = line.replace(re, _replacement);
+          }
+          processed_data.push(line);
+      });
+      console.log(processed_data);
+      
+      contents_div.innerHTML = processed_data.join("<br>\n");
+  }
+
+  function load_data(wiki_name) {
+      xmlhttp = new XMLHttpRequest();
+      filename = wiki_name.replace(":", "/").replace(/ /g, "_") + ".txt";
+      filename = filename.toLowerCase();
+      console.log("Opening filename:" + filename);
+      xmlhttp.open("GET", base_path + filename, false);
+      xmlhttp.send(null);
+      return xmlhttp.responseText;
+  }
+
+  function show(filename) {
+      var data = load_data(filename);
+      
+      render(data);
+  }
+
+  function init() {
+      wikiname = window.location.hash || index_wikiname;
+      show(wikiname.replace(/^#/, ""));
+  }
+  window.onhashchange = init;
+
+</script>
+
+<body onLoad="init()">
+    <div id="main">
+        Dummy
+    </div>
+</body>
